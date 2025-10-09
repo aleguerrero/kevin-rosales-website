@@ -13,10 +13,10 @@ body.preview-active * {
   color: #4d4d4d !important;
 }
 
-/* Home background: white normally, transparent during preview */
+/* Home background: white normally, transparent during preview
 .home-section {
   background: #fff;
-}
+} */
 body.preview-active .home-section {
   background: transparent;
 }
