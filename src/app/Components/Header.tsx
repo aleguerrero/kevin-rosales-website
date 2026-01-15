@@ -19,7 +19,7 @@ export default function Header() {
       setOnVideo(true);
     }
 
-    if (route === "about" || route === "projects" ) {
+    if (route === "about" || route === "stills" ) {
       setOnSA(true);
     }
   }, [pathname]);
@@ -28,9 +28,7 @@ export default function Header() {
 
   return (
     <header
-      className={`fixed w-full top-0 left-0 right-0 z-50 p-4 ${
-        onVideo && "text-white"
-      }`}
+      className={`fixed w-full top-0 left-0 right-0 z-50 p-8`}
     >
       <div className="">
         <nav className="flex items-center gap-6">
@@ -40,7 +38,7 @@ export default function Header() {
                 setOnVideo(false)
                 setOnSA(false)
               }}>
-                Home
+                HOME
               </Link>
             ) : (
               <button
@@ -49,17 +47,17 @@ export default function Header() {
                 aria-expanded={open}
                 aria-controls="projects-menu"
               >
-                Projects
+                PROJECTS
               </button>
             )}
 
             <Link href="/about" className="ml-4 cursor-pointer" onClick={() => setOnSA(true)}>
-              About
+              ABOUT
             </Link>
           </div>
           <div className="flex w-1/2 justify-end">
             <Link href="/stills" className="cursor-pointer" onClick={() => setOnSA(true)}>
-              Stills
+              STILLS
             </Link>
           </div>
         </nav>

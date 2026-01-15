@@ -1,6 +1,10 @@
+export const metadata = {
+    title: 'About',
+  };
+
 export default function AboutPage() {
   return (
-    <div className="p-4 flex flex-row max-md:flex-col w-full">
+    <div className="p-8 flex flex-row max-md:flex-col w-full pt-32">
       <div className="flex flex-col justify-center items-center">
         <div>Represented by</div>
         <div>Landia</div>

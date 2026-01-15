@@ -1,6 +1,472 @@
 {
     "projects": [
-        {"name": "Cucapá Documentary | DC", "slug": "Cucapa_Documentary_DC", "vimeoId": "917684615" },
-        {"name": "Gatorade x Leo Messi — Leogacy", "slug": "Gatorade_Leo_Messi_Leogacy", "vimeoId": "1006795853"}
+        {
+            "name": "Montelobos - Noche de Lobos",
+            "slug": "montelobos_noche_de_lobos",
+            "production": "LANDIA",
+            "vimeoId": "1142579396",
+            "credits": [
+                {
+                    "role": "Creative Director",
+                    "name": "Josh Combs"
+                },
+                {
+                    "role": "The Production Advisory Group",
+                    "name": "Sabrina Allaria"
+                },
+                {
+                    "role": "The Production Advisory Group",
+                    "name": "Barbara Bottini"
+                },
+                {
+                    "role": "Managing Director",
+                    "name": "Thomas Amoedo"
+                },
+                {
+                    "role": "ECP",
+                    "name": "Luciana Abramzon"
+                },
+                {
+                    "role": "EP",
+                    "name": "Viridiana Guadarrama"
+                },
+                {
+                    "role": "EP",
+                    "name": "Mercedes Guereño"
+                },
+                {
+                    "role": "Director",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "DoP",
+                    "name": "Bruno Gaeta"
+                },
+                {
+                    "role": "AD",
+                    "name": "Yago Muñoz"
+                },
+                {
+                    "role": "2nd AD",
+                    "name": "Ander Zuinaga"
+                },
+                {
+                    "role": "Post",
+                    "name": "Los De Post"
+                },
+                {
+                    "role": "Post producer",
+                    "name": "Luis Fernando Zerecero"
+                },
+                {
+                    "role": "Edit",
+                    "name": "Fernando de Yolanda"
+                },
+                {
+                    "role": "Color",
+                    "name": "Felipe Martinez"
+                },
+                {
+                    "role": "Music and sound design",
+                    "name": "BDS"
+                },
+                {
+                    "role": "Line Producer",
+                    "name": "Joel Rodríguez"
+                },
+                {
+                    "role": "Production Coordinator",
+                    "name": "María del Olmo"
+                },
+                {
+                    "role": "APOC",
+                    "name": "Nicole Reyes"
+                },
+                {
+                    "role": "Production Assitant",
+                    "name": "Fernando Cifuentes"
+                },
+                {
+                    "role": "Runner",
+                    "name": "Astrid Limones"
+                },
+                {
+                    "role": "Fixer Oaxaca",
+                    "name": "Gustavo Mora"
+                },
+                {
+                    "role": "Steadicam",
+                    "name": "Diego Vazquez"
+                },
+                {
+                    "role": "1AC",
+                    "name": "César Ánimas Rojas"
+                },
+                {
+                    "role": "1AC",
+                    "name": "Jose Pablo Cavia"
+                },
+                {
+                    "role": "Gaffer / Staff",
+                    "name": "José Luis Rojas"
+                },
+                {
+                    "role": "Art Director",
+                    "name": "Mihaya Urtuzuastegui"
+                },
+                {
+                    "role": "Art Assistants",
+                    "name": "Francisco Giovanni Piña"
+                },
+                {
+                    "role": "Art Assistants",
+                    "name": "Alejandra Hernandez"
+                },
+                {
+                    "role": "Art Assistants",
+                    "name": "Mario Bustillo"
+                },
+                {
+                    "role": "Wardrobe",
+                    "name": "Daniel Orozco"
+                },
+                {
+                    "role": "Wardrobe",
+                    "name": "Diana Quintero"
+                },
+                {
+                    "role": "Makeup",
+                    "name": "Araceli Quelite"
+                },
+                {
+                    "role": "Makeup Assistant",
+                    "name": "Guillermina Cortes"
+                },
+                {
+                    "role": "Sound",
+                    "name": "Armando Martínez"
+                },
+                {
+                    "role": "Video Operator",
+                    "name": "Miguel Ángel López"
+                },
+                {
+                    "role": "Video Assistant",
+                    "name": "Misael López"
+                },
+                {
+                    "role": "Data",
+                    "name": "Gabriel Romero"
+                },
+                {
+                    "role": "Casting",
+                    "name": "Gustavo Anselmi"
+                },
+                {
+                    "role": "Green Casting",
+                    "name": "Alejandro Maldonado"
+                },
+                {
+                    "role": "Casting Club (Oaxaca)",
+                    "name": "Elizabeth Camacho"
+                },
+                {
+                    "role": "Storyboard",
+                    "name": "Facundo Tello"
+                },
+                {
+                    "role": "Catering",
+                    "name": "Viviana Carlin Cigarroa"
+                },
+                {
+                    "role": "Catering",
+                    "name": "Victor Rodrigo Marquez"
+                },
+                {
+                    "role": "Servicio al cliente",
+                    "name": "Mariano Paz"
+                }
+            ]
+        },
+        {
+            "name": "DonJulio x Yalitza Aparicio",
+            "slug": "donjulio_yalitza_aparicio",
+            "production": "LANDIA",
+            "vimeoId": "1142611795",
+            "credits": [
+                {
+                    "role": "Cliente",
+                    "name": "Don Julio"
+                },
+                {
+                    "role": "Agency",
+                    "name": "(anónimo)"
+                },
+                {
+                    "role": "Director Digital",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "Director de Fotografía Digital",
+                    "name": "Sebastian Blanco"
+                },
+                {
+                    "role": "Productor Ejecutivo",
+                    "name": "Michelle Lacoste"
+                },
+                {
+                    "role": "Directora de producción",
+                    "name": "Mercedes Guereño"
+                },
+                {
+                    "role": "Managing Partner",
+                    "name": "Thomas Amoedo"
+                },
+                {
+                    "role": "Color",
+                    "name": "Dorado.tv"
+                },
+                {
+                    "role": "VFX",
+                    "name": "Comppo"
+                },
+                {
+                    "role": "Editor",
+                    "name": "Julián Rivera"
+                },
+                {
+                    "role": "Música",
+                    "name": "Rodrigo Barbera"
+                },
+                {
+                    "role": "Audio",
+                    "name": "Silence / Rodolfo Romero"
+                }
+            ]
+        },
+        {
+            "name": "Cucapá x Erick Meyenberg",
+            "slug": "cucapa_erick_meyenberg",
+            "production": "Cynthia Reyna",
+            "vimeoId": "917684615",
+            "credits": [
+                {
+                    "role": "Cliente",
+                    "name": "Cerveza Cucapá"
+                },
+                {
+                    "role": "Dirección",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "Director de Fotografía",
+                    "name": "Alex Flores"
+                },
+                {
+                    "role": "Producción en línea",
+                    "name": "Ricardo Morales"
+                },
+                {
+                    "role": "Asistente de prod",
+                    "name": "Jorge Guarro"
+                },
+                {
+                    "role": "Asistente de cámara",
+                    "name": "Emilio García"
+                },
+                {
+                    "role": "Driver/Fixer",
+                    "name": "Carlos Godoy"
+                },
+                {
+                    "role": "Opticas",
+                    "name": "Ivan Zapién"
+                },
+                {
+                    "role": "Edición",
+                    "name": "Esteban Batres"
+                },
+                {
+                    "role": "Motion Graphics",
+                    "name": "Ale Marquez"
+                }
+            ]
+        },
+        {
+            "name": "Gatorade x Leo Messi — Leogacy",
+            "slug": "gatorade_leo_messi_leogacy",
+            "production": "LANDIA",
+            "vimeoId": "1006795853",
+            "credits": [
+                {
+                    "role": "Client",
+                    "name": "Gatorade"
+                },
+                {
+                    "role": "Agency",
+                    "name": "ISLA"
+                },
+                {
+                    "role": "Digital Director",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "Executive Producer",
+                    "name": "Thomas Amoedo"
+                },
+                {
+                    "role": "Executive Producer",
+                    "name": "Gastón Magnani"
+                },
+                {
+                    "role": "Directors Hero",
+                    "name": "Maxi Blanco & Rocio Gastaldi"
+                },
+                {
+                    "role": "DoP",
+                    "name": "Adri del Val"
+                },
+                {
+                    "role": "Line Producer",
+                    "name": "Boris Velican"
+                },
+                {
+                    "role": "Assistant Director",
+                    "name": "Nokola Barisic"
+                },
+                {
+                    "role": "Production Designer",
+                    "name": "Baptiste Glaymann and Davor Prah"
+                },
+                {
+                    "role": "Stylist",
+                    "name": "Jazmina Arnautovic."
+                },
+                {
+                    "role": "Color Grading",
+                    "name": "Xavi Santaolaya"
+                },
+                {
+                    "role": "Post-Producción",
+                    "name": "COMPPO"
+                },
+                {
+                    "role": "Editor",
+                    "name": "Luna Martin"
+                },
+                {
+                    "role": "Animation",
+                    "name": "Sulfurica"
+                },
+                {
+                    "role": "Sound Design and Compositor",
+                    "name": "BDS Studio"
+                },
+                {
+                    "role": "Production Service Paris",
+                    "name": "TwentyFourSeven"
+                },
+                {
+                    "role": "Production Service Croatia",
+                    "name": "Lighting Films"
+                }
+            ]
+        },
+        {
+            "name": "Aderogyl | Vitamins",
+            "slug": "aderogyl_vitamins",
+            "production": "LANDIA",
+            "vimeoId": "913846970",
+            "credits": [
+                {
+                    "role": "Cliente",
+                    "name": "Aderogyl"
+                },
+                {
+                    "role": "Agencia",
+                    "name": "Leo Burnett"
+                },
+                {
+                    "role": "Dirigido por",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "Dirigido por",
+                    "name": "Alex Flores"
+                },
+                {
+                    "role": "EP",
+                    "name": "Viridiana Guadarrama"
+                },
+                {
+                    "role": "EP",
+                    "name": "Adriana Dolmen"
+                },
+                {
+                    "role": "EP",
+                    "name": "Thomas Amoedo"
+                },
+                {
+                    "role": "DP",
+                    "name": "Cristian Mendoza"
+                },
+                {
+                    "role": "AD",
+                    "name": "Vale Sandoval"
+                },
+                {
+                    "role": "2AD",
+                    "name": "Maria José"
+                },
+                {
+                    "role": "Postproduction",
+                    "name": "Diorama Colombia"
+                }
+            ]
+        },
+        {
+            "name": "Corona Golden Light",
+            "slug": "corona_golden_light",
+            "production": "LANDIA",
+            "vimeoId": "1142598017",
+            "credits": [
+                {
+                    "role": "Director Digital",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "Director de Fotografía",
+                    "name": "Carlos Tellez"
+                },
+                {
+                    "role": "Directora Hero",
+                    "name": "Veronica Von"
+                },
+                {
+                    "role": "Executive Producer",
+                    "name": "Thomas Amoedo / Ezequiel Avaro"
+                },
+                {
+                    "role": "Post Production Supervisor",
+                    "name": "Luis Fernando Zerecero"
+                },
+                {
+                    "role": "Compositing/VFX",
+                    "name": "Ploop VFX / Los De Post"
+                },
+                {
+                    "role": "Colorist",
+                    "name": "Juan Luis Reza"
+                },
+                {
+                    "role": "Music & Sound Design",
+                    "name": "BDS"
+                },
+                {
+                    "role": "Online / Finishing",
+                    "name": "Los De Post"
+                }
+            ]
+        }
     ]
 }

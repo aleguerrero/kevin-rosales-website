@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  </head>
+  <body>
+    <!-- Fixed visual layer -->
+    <div class="fixed inset-0 flex flex-col h-[125dvh] w-full">
+      <!-- 100dvh block -->
+      <section class="h-[100dvh] w-full">Main content</section>
+
+      <!-- 25dvh block -->
+      <section class="h-[25dvh] w-full">Extra content</section>
+    </div>
+
+    <!-- Scroll spacer (creates the scroll) -->
+    <div class="h-[125dvh]"></div>
+  </body>
+</html>

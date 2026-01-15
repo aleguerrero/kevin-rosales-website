@@ -4,7 +4,7 @@
 body,
 body * {
   transition: color 200ms ease, filter 200ms ease, background-color 200ms ease;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 /* Turn text white (with subtle glow) while preview active */
@@ -13,10 +13,7 @@ body.preview-active * {
   color: #4d4d4d !important;
 }
 
-/* Home background: white normally, transparent during preview
-.home-section {
-  background: #fff;
-} */
+
 body.preview-active .home-section {
   background: transparent;
 }
