@@ -2,8 +2,13 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import localFont from "next/font/local";
 
-type Project = { name: string; slug: string };
+type Project = { client: string, name: string; slug: string };
+
+const canelaFont = localFont({
+  src: "/../../../public/Canela-Thin.otf",
+});
 
 export default function Projects() {
   const [projects, setProjects] = useState<Project[]>([]);
@@ -23,7 +28,7 @@ export default function Projects() {
   };
 
   return (
-    <ul className="w-fit space-y-2">
+    <ul className="w-fit space-y-2 fade-in-container">
       {projects.map(p => (
         <li key={p.slug} className="w-fit">
           <Link
@@ -35,7 +40,7 @@ export default function Projects() {
             // onBlur={() => fireHover(null)}
             onClick={() => fireHover(null)}
           >
-            {p.name}
+            {p.client} / {<span className={`${canelaFont.className} max-md:text-lg text-2xl`}>{p.name}</span>}
           </Link>
         </li>
       ))}

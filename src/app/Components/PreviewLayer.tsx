@@ -16,7 +16,7 @@ export default function PreviewLayer() {
 
   return (
     <div
-      className={`fixed inset-0 z-0 pointer-events-none transition-opacity duration-300 ${
+      className={`fixed inset-0 z-[1] pointer-events-none transition-opacity duration-300 ${
         slug ? "opacity-100" : "opacity-0"
       }`}
       aria-hidden
@@ -25,7 +25,7 @@ export default function PreviewLayer() {
         <>
           <video
             key={slug}
-            className="absolute top-1/2 left-1/2 min-w-full min-h-full w-auto h-auto -translate-x-1/2 -translate-y-1/2 object-cover"
+            className="absolute top-1/2 left-1/2 min-w-full min-h-full w-auto h-auto -translate-x-1/2 -translate-y-1/2 object-cover fade-in-projects-container"
             autoPlay
             muted
             loop

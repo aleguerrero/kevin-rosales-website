@@ -1,7 +1,8 @@
 {
     "projects": [
         {
-            "name": "Montelobos - Noche de Lobos",
+            "client": "Montelobos",
+            "name": "Noche de Lobos",
             "slug": "montelobos_noche_de_lobos",
             "production": "LANDIA",
             "vimeoId": "1142579396",
@@ -189,7 +190,8 @@
             ]
         },
         {
-            "name": "DonJulio x Yalitza Aparicio",
+            "client": "Don Julio",
+            "name": "Yalitza Aparicio",
             "slug": "donjulio_yalitza_aparicio",
             "production": "LANDIA",
             "vimeoId": "1142611795",
@@ -245,7 +247,8 @@
             ]
         },
         {
-            "name": "Cucapá x Erick Meyenberg",
+            "client": "Cucapa",
+            "name": "Erick Meyenberg",
             "slug": "cucapa_erick_meyenberg",
             "production": "Cynthia Reyna",
             "vimeoId": "917684615",
@@ -293,7 +296,8 @@
             ]
         },
         {
-            "name": "Gatorade x Leo Messi — Leogacy",
+            "client": "Gatorade",
+            "name": "Leo Messi — Leogacy",
             "slug": "gatorade_leo_messi_leogacy",
             "production": "LANDIA",
             "vimeoId": "1006795853",
@@ -373,7 +377,8 @@
             ]
         },
         {
-            "name": "Aderogyl | Vitamins",
+            "client": "Aderogyl",
+            "name": "Vitamins",
             "slug": "aderogyl_vitamins",
             "production": "LANDIA",
             "vimeoId": "913846970",
@@ -425,7 +430,8 @@
             ]
         },
         {
-            "name": "Corona Golden Light",
+            "client": "Corona",
+            "name": "Golden Light",
             "slug": "corona_golden_light",
             "production": "LANDIA",
             "vimeoId": "1142598017",

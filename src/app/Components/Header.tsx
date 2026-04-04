@@ -28,7 +28,7 @@ export default function Header() {
 
   return (
     <header
-      className={`fixed w-full top-0 left-0 right-0 z-50 p-8`}
+      className={`fixed w-full top-0 left-0 right-0 z-50 p-8 fade-in-container`}
     >
       <div className="">
         <nav className="flex items-center gap-6">
@@ -38,7 +38,7 @@ export default function Header() {
                 setOnVideo(false)
                 setOnSA(false)
               }}>
-                HOME
+                home.
               </Link>
             ) : (
               <button
@@ -47,17 +47,17 @@ export default function Header() {
                 aria-expanded={open}
                 aria-controls="projects-menu"
               >
-                PROJECTS
+                projects.
               </button>
             )}
 
             <Link href="/about" className="ml-4 cursor-pointer" onClick={() => setOnSA(true)}>
-              ABOUT
+              about.
             </Link>
           </div>
           <div className="flex w-1/2 justify-end">
             <Link href="/stills" className="cursor-pointer" onClick={() => setOnSA(true)}>
-              STILLS
+              stills.
             </Link>
           </div>
         </nav>
