@@ -39,7 +39,7 @@ async function getProjects(): Promise<Project[]> {
 export async function generateMetadata({
   params,
 }: {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
   const project = (await getProjects()).find((p) => p.slug === slug);
