@@ -1,6 +1,7 @@
 import { promises as fs } from "fs";
 import path from "path";
 import Image from "next/image";
+import { CollageImage } from "./CollageImage";
 
 export const metadata = {
   title: "Stills",
@@ -11,12 +12,12 @@ export default async function Stills() {
   const jsonData = await fs.readFile(filePath, "utf-8");
   const data = JSON.parse(jsonData);
   const images = data.images;
-  const minImg = 300;
-  const maxImg = 700;
+//   const minImg = 300;
+//   const maxImg = 700;
 
-  function randomSize() {
-    return Math.floor(Math.random() * 500);
-  }
+//   function randomSize() {
+//     return Math.floor(Math.random() * 500);
+//   }
 
   return (
     <div className="w-full flex flex-wrap flex-row justify-center p-8 pt-24 fade-in-container">
@@ -50,53 +51,17 @@ export default async function Stills() {
             </div> */}
       <div className="flex flex-row justify-center flex-wrap">
         {images.skies.map((image: string, i: number) => (
-          <img
-            src={`/fotos_web/${image}`}
-            className="collage-img"
-            key={i}
-            style={{
-              width: `${Math.floor(Math.random() * (maxImg - minImg + 1)) + minImg}px`,
-              maxHeight: "450px",
-              maxWidth: "unset",
-              height: "auto",
-              objectFit: "contain",
-              margin: `${Math.floor(Math.random() * (50 - 10 + 1)) + 10}px`,
-            }}
-          />
+          <CollageImage src={`/fotos_web/${image}`} key={i} />
         ))}
       </div>
       <div className="flex flex-row justify-evenly flex-wrap">
         {images.people.map((image: string, i: number) => (
-          <img
-            src={`/fotos_web/${image}`}
-            className="collage-img"
-            key={i}
-            style={{
-              width: `${Math.floor(Math.random() * (maxImg - minImg + 1)) + minImg}px`,
-              maxHeight: "450px",
-              maxWidth: "unset",
-              height: "auto",
-              objectFit: "contain",
-              margin: `${Math.floor(Math.random() * (50 - 10 + 1)) + 10}px`,
-            }}
-          />
+          <CollageImage src={`/fotos_web/${image}`} key={i} />
         ))}
       </div>
       <div className="flex flex-row justify-evenly flex-wrap">
         {images.arch.map((image: string, i: number) => (
-          <img
-            src={`/fotos_web/${image}`}
-            className="collage-img"
-            key={i}
-            style={{
-              width: `${Math.floor(Math.random() * (maxImg - minImg + 1)) + minImg}px`,
-              maxHeight: "450px",
-              maxWidth: "unset",
-              height: "auto",
-              objectFit: "contain",
-              margin: `${Math.floor(Math.random() * (50 - 10 + 1)) + 10}px`,
-            }}
-          />
+          <CollageImage src={`/fotos_web/${image}`} key={i} />
         ))}
       </div>
     </div>
