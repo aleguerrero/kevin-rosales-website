@@ -15,11 +15,13 @@ export default function Home() {
           Your browser does not support the video tag.
         </video>
         <section className="home-section pt-16 z-10 relative grid grid-cols-1 md:grid-cols-2 h-[100dvh] fade-in-container">
-          <div className="flex items-center justify-center">
-            <p>KEVIN</p>
-          </div>
-          <div className="flex items-center justify-center">
-            <p>ROSALES</p>
+          <div className="w-1/2 flex flex-row">
+            <div className="pl-8 w-1/2 flex items-center justify-start text-xl">
+              <p>Kevin</p>
+            </div>
+            <div className="w-1/2 flex items-center justify-start text-xl">
+              <p>Rosales</p>
+            </div>
           </div>
         </section>
       </div>

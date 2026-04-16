@@ -33,14 +33,14 @@ export default function Projects() {
         <li key={p.slug} className="w-fit">
           <Link
             href={`/projects/${p.slug}`}
-            className="inline-block transition-colors duration-200"
+            className="text-xl inline-block transition-colors duration-200"
             onMouseEnter={() => fireHover(p.slug)}
             onMouseLeave={() => fireHover(null)}
             // onFocus={() => fireHover(p.slug)}
             // onBlur={() => fireHover(null)}
             onClick={() => fireHover(null)}
           >
-            {p.client} / {<span className={`${canelaFont.className} max-md:text-lg text-2xl`}>{p.name}</span>}
+            {p.client.toUpperCase()} / {<span className={`${canelaFont.className}`}>{p.name}</span>}
           </Link>
         </li>
       ))}
