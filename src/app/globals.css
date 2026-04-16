@@ -51,7 +51,7 @@ body.preview-active .home-section {
 
 .video-background {
   position: relative;
-  min-height: 100vh;
+  min-height: 100dvh;
   width: 100vw;
   overflow: hidden;
   background-size: cover;
@@ -71,6 +71,24 @@ body.preview-active .home-section {
   transform: translate(-50%, -50%);
   z-index: -1; /* Place video behind other content */
   object-fit: cover; /* Ensure video covers the whole area */
+}
+
+.underline-hover {
+  position: relative;
+  display: inline-block;
+}
+.underline-hover::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 0;
+  height: 2px;
+  background: currentColor;
+  transition: width 0.3s ease;
+}
+.underline-hover:hover::after {
+  width: 100%;
 }
 
 @media (max-width: 768px) {

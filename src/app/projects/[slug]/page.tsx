@@ -55,6 +55,7 @@ export default async function ProjectPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
+  console.log(slug)
   const project = (await getProjects()).find((p) => p.slug === slug);
   if (!project) return notFound();
 
@@ -80,7 +81,7 @@ export default async function ProjectPage({
             href="#credits"
             className="absolute bottom-0 left-0 w-full p-8 flex justify-center"
           >
-            credits.
+            credits
           </a>
         </div>
         <div

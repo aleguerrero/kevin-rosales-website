@@ -39,7 +39,7 @@ export default function Header() {
                 setOnSA(false)
               }}
               className="cursor-pointer text-xl">
-                home.
+                home
               </Link>
             ) : (
               <button

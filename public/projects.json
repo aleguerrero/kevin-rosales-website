@@ -473,6 +473,204 @@
                     "name": "Los De Post"
                 }
             ]
+        },
+        {
+            "client": "Apple",
+            "name": "The Making of Suerte",
+            "slug": "apple_the_making_of_suerte",
+            "production": "LANDIA",
+            "vimeoId": "1166881521",
+            "credits": [
+                {
+                    "role": "Production Company",
+                    "name": "LANDIA"
+                },
+                {
+                    "role": "Agency",
+                    "name": "TBWA\\ Media Arts Lab"
+                },
+                {
+                    "role": "Director BTS",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "Director de fotografía BTS",
+                    "name": "Diego Campos"
+                },
+                {
+                    "role": "Productora BTS",
+                    "name": "Julz Cruz"
+                },
+                {
+                    "role": "Data Manager",
+                    "name": "Karen Méndez"
+                },
+                {
+                    "role": "Directores",
+                    "name": "CLIQUA"
+                },
+                {
+                    "role": "Director de fotografía",
+                    "name": "Xiaolong Liu"
+                },
+                {
+                    "role": "Director de fotografía 2da Unidad",
+                    "name": "César Echeverria"
+                },
+                {
+                    "role": "Managing Partners & Executive Producers",
+                    "name": "Thomas Amoedo | Claudio Amoedo"
+                },
+                {
+                    "role": "Directora de Producción y Productora Ejecutiva",
+                    "name": "Mercedes Guereño"
+                },
+                {
+                    "role": "Productora Ejecutiva Creativa",
+                    "name": "Luciana Abramzon"
+                },
+                {
+                    "role": "Productor",
+                    "name": "Carlos Ayami Erdmann"
+                },
+                {
+                    "role": "Gerente de producción",
+                    "name": "Rafael Hernández Garza"
+                },
+                {
+                    "role": "Coordinadora de Producción",
+                    "name": "Tania A. Montiel"
+                },
+                {
+                    "role": "1st AD",
+                    "name": "Manuel Magallanes"
+                },
+                {
+                    "role": "2nd AD",
+                    "name": "Xavier Magallanes"
+                },
+                {
+                    "role": "3er AD",
+                    "name": "Vicente Mercado"
+                },
+                {
+                    "role": "Supervisora de guión",
+                    "name": "Manuela Rosas"
+                },
+                {
+                    "role": "Cast",
+                    "name": "CastingClub MX"
+                },
+                {
+                    "role": "Director de Casting",
+                    "name": "Gustavo Anselmi"
+                },
+                {
+                    "role": "Asistente casting",
+                    "name": "Valentina Ñonquepan"
+                },
+                {
+                    "role": "Coordinadora de casting",
+                    "name": "Inés García Siguero"
+                },
+                {
+                    "role": "Diseñadora de producción",
+                    "name": "Fernanda Guerrero"
+                },
+                {
+                    "role": "Director de arte",
+                    "name": "Victor Manuel Raya"
+                }
+            ]
+        },
+        {
+            "client": "Ford Pro",
+            "name": "Dare to go pro",
+            "slug": "fordpro_dare_to_go_pro",
+            "production": "LANDIA",
+            "vimeoId": "1183521611",
+            "credits": [
+                {
+                    "role": "Production Company",
+                    "name": "LANDIA"
+                },
+                {
+                    "role": "Director",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "Director de Fotografía",
+                    "name": "Sebastián Blanco"
+                },
+                {
+                    "role": "Managing Partners & Executive Producers",
+                    "name": "Thomas Amoedo | Claudio Amoedo"
+                },
+                {
+                    "role": "Head of Production",
+                    "name": "Mercedes Guereño"
+                },
+                {
+                    "role": "Executive Creative Producer",
+                    "name": "Luciana Abramzon"
+                },
+                {
+                    "role": "Producer",
+                    "name": "Victoria Tolchinsky"
+                },
+                {
+                    "role": "1st AD",
+                    "name": "Diego Diez"
+                },
+                {
+                    "role": "2nd AD",
+                    "name": "Marlex Brando"
+                },
+                {
+                    "role": "Productora en línea",
+                    "name": "Karina Santiago"
+                },
+                {
+                    "role": "Gerente de Unidad",
+                    "name": "Israel Guzmán"
+                },
+                {
+                    "role": "Gerente de Logística",
+                    "name": "Eide Sosa"
+                },
+                {
+                    "role": "Gaffer",
+                    "name": "Mauricio Reyes"
+                },
+                {
+                    "role": "Director de Arte",
+                    "name": "Tomás Lecot"
+                },
+                {
+                    "role": "Especialista Autos",
+                    "name": "Chivata Lezama"
+                },
+                {
+                    "role": "Stylist",
+                    "name": "Eugenia Fernandez"
+                },
+                {
+                    "role": "Make Up",
+                    "name": "Lu Beltran"
+                },
+                {
+                    "role": "Locaciones",
+                    "name": "Luis Serrano Nava"
+                },
+                {
+                    "role": "Post & VFX",
+                    "name": "Atómica"
+                },
+                {
+                    "role": "Music & Sound Design",
+                    "name": "BDS"
+                }
+            ]
         }
     ]
 }
