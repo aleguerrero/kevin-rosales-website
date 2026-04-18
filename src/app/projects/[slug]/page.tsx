@@ -86,9 +86,9 @@ export default async function ProjectPage({
         </div>
         <div
           id="credits"
-          className="h-[50dvh] w-full flex flex-col items-center md:justify-center overflow-scroll no-scrollbar"
+          className="h-[50dvh] w-full flex flex-col items-center md:justify-center overflow-y-auto overflow-x-hidden no-scrollbar"
         >
-          <div className="w-full max-w-2xl px-4">
+          <div className="w-full px-4 py-4">
             <div
               className={`${canelaFont.className} w-full flex justify-center text-xl items-baseline`}
             >
@@ -101,19 +101,19 @@ export default async function ProjectPage({
               production
             </div>
 
-            <div className="flex flex-wrap justify-center gap-x-4 gap-y-2 p-8 ">
+            <div className="flex flex-wrap justify-center gap-x-4 gap-y-2 px-6 py-4 pb-8">
               {project.credits.map((credit) => (
                 <div
                   key={`${credit.role}-${credit.name}`}
-                  className="inline-flex items-baseline whitespace-nowrap shrink-0"
+                  className="inline-flex items-baseline justify-center flex-wrap  shrink-0 max-w-full"
                 >
                   <span
-                    className={`${canelaFont.className} mr-1 lowercase text-lg leading-none`}
+                    className={`${canelaFont.className} mr-1 lowercase text-lg leading-none text-center`}
                   >
                     {credit.role}
                   </span>
                   <span
-                    className={`${overusedFont.className} font-bold uppercase leading-none max-md:text-lg text-xl`}
+                    className={`${overusedFont.className} font-bold uppercase text-center leading-none max-md:text-lg text-xl`}
                   >
                     {credit.name}
                   </span>
