@@ -69,8 +69,8 @@ body.preview-active .home-section {
   width: auto;
   height: auto;
   transform: translate(-50%, -50%);
-  z-index: -1; /* Place video behind other content */
-  object-fit: cover; /* Ensure video covers the whole area */
+  z-index: -1;
+  object-fit: cover;
 }
 
 .underline-hover {

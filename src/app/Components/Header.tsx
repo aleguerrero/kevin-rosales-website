@@ -30,7 +30,7 @@ export default function Header() {
     <header
       className={`fixed w-full top-0 left-0 right-0 z-50 p-8 fade-in-container flex justify-center`}
     >
-      <div className="w-3/4">
+      <div className="max-md:w-full w-3/4">
         <nav className="flex items-center gap-6">
           <div className="w-1/2 flex">
             {onVideo || onSA ? (

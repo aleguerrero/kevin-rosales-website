@@ -1,6 +1,204 @@
 {
     "projects": [
         {
+            "client": "Ford Pro",
+            "name": "Dare to go pro",
+            "slug": "fordpro_dare_to_go_pro",
+            "production": "LANDIA",
+            "vimeoId": "1183521611",
+            "credits": [
+                {
+                    "role": "Production Company",
+                    "name": "LANDIA"
+                },
+                {
+                    "role": "Director",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "Director de Fotografía",
+                    "name": "Sebastián Blanco"
+                },
+                {
+                    "role": "Managing Partners & Executive Producers",
+                    "name": "Thomas Amoedo | Claudio Amoedo"
+                },
+                {
+                    "role": "Head of Production",
+                    "name": "Mercedes Guereño"
+                },
+                {
+                    "role": "Executive Creative Producer",
+                    "name": "Luciana Abramzon"
+                },
+                {
+                    "role": "Producer",
+                    "name": "Victoria Tolchinsky"
+                },
+                {
+                    "role": "1st AD",
+                    "name": "Diego Diez"
+                },
+                {
+                    "role": "2nd AD",
+                    "name": "Marlex Brando"
+                },
+                {
+                    "role": "Productora en línea",
+                    "name": "Karina Santiago"
+                },
+                {
+                    "role": "Gerente de Unidad",
+                    "name": "Israel Guzmán"
+                },
+                {
+                    "role": "Gerente de Logística",
+                    "name": "Eide Sosa"
+                },
+                {
+                    "role": "Gaffer",
+                    "name": "Mauricio Reyes"
+                },
+                {
+                    "role": "Director de Arte",
+                    "name": "Tomás Lecot"
+                },
+                {
+                    "role": "Especialista Autos",
+                    "name": "Chivata Lezama"
+                },
+                {
+                    "role": "Stylist",
+                    "name": "Eugenia Fernandez"
+                },
+                {
+                    "role": "Make Up",
+                    "name": "Lu Beltran"
+                },
+                {
+                    "role": "Locaciones",
+                    "name": "Luis Serrano Nava"
+                },
+                {
+                    "role": "Post & VFX",
+                    "name": "Atómica"
+                },
+                {
+                    "role": "Music & Sound Design",
+                    "name": "BDS"
+                }
+            ]
+        },
+        {
+            "client": "Apple",
+            "name": "The Making of Suerte",
+            "slug": "apple_the_making_of_suerte",
+            "production": "LANDIA",
+            "vimeoId": "1166881521",
+            "credits": [
+                {
+                    "role": "Production Company",
+                    "name": "LANDIA"
+                },
+                {
+                    "role": "Agency",
+                    "name": "TBWA\\ Media Arts Lab"
+                },
+                {
+                    "role": "Director BTS",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "Director de fotografía BTS",
+                    "name": "Diego Campos"
+                },
+                {
+                    "role": "Productora BTS",
+                    "name": "Julz Cruz"
+                },
+                {
+                    "role": "Data Manager",
+                    "name": "Karen Méndez"
+                },
+                {
+                    "role": "Directores",
+                    "name": "CLIQUA"
+                },
+                {
+                    "role": "Director de fotografía",
+                    "name": "Xiaolong Liu"
+                },
+                {
+                    "role": "Director de fotografía 2da Unidad",
+                    "name": "César Echeverria"
+                },
+                {
+                    "role": "Managing Partners & Executive Producers",
+                    "name": "Thomas Amoedo | Claudio Amoedo"
+                },
+                {
+                    "role": "Directora de Producción y Productora Ejecutiva",
+                    "name": "Mercedes Guereño"
+                },
+                {
+                    "role": "Productora Ejecutiva Creativa",
+                    "name": "Luciana Abramzon"
+                },
+                {
+                    "role": "Productor",
+                    "name": "Carlos Ayami Erdmann"
+                },
+                {
+                    "role": "Gerente de producción",
+                    "name": "Rafael Hernández Garza"
+                },
+                {
+                    "role": "Coordinadora de Producción",
+                    "name": "Tania A. Montiel"
+                },
+                {
+                    "role": "1st AD",
+                    "name": "Manuel Magallanes"
+                },
+                {
+                    "role": "2nd AD",
+                    "name": "Xavier Magallanes"
+                },
+                {
+                    "role": "3er AD",
+                    "name": "Vicente Mercado"
+                },
+                {
+                    "role": "Supervisora de guión",
+                    "name": "Manuela Rosas"
+                },
+                {
+                    "role": "Cast",
+                    "name": "CastingClub MX"
+                },
+                {
+                    "role": "Director de Casting",
+                    "name": "Gustavo Anselmi"
+                },
+                {
+                    "role": "Asistente casting",
+                    "name": "Valentina Ñonquepan"
+                },
+                {
+                    "role": "Coordinadora de casting",
+                    "name": "Inés García Siguero"
+                },
+                {
+                    "role": "Diseñadora de producción",
+                    "name": "Fernanda Guerrero"
+                },
+                {
+                    "role": "Director de arte",
+                    "name": "Victor Manuel Raya"
+                }
+            ]
+        },
+        {
             "client": "Montelobos",
             "name": "Noche de Lobos",
             "slug": "montelobos_noche_de_lobos",
@@ -190,112 +388,6 @@
             ]
         },
         {
-            "client": "Don Julio",
-            "name": "Yalitza Aparicio",
-            "slug": "donjulio_yalitza_aparicio",
-            "production": "LANDIA",
-            "vimeoId": "1142611795",
-            "credits": [
-                {
-                    "role": "Cliente",
-                    "name": "Don Julio"
-                },
-                {
-                    "role": "Agency",
-                    "name": "(anónimo)"
-                },
-                {
-                    "role": "Director Digital",
-                    "name": "Kevin Rosales"
-                },
-                {
-                    "role": "Director de Fotografía Digital",
-                    "name": "Sebastian Blanco"
-                },
-                {
-                    "role": "Productor Ejecutivo",
-                    "name": "Michelle Lacoste"
-                },
-                {
-                    "role": "Directora de producción",
-                    "name": "Mercedes Guereño"
-                },
-                {
-                    "role": "Managing Partner",
-                    "name": "Thomas Amoedo"
-                },
-                {
-                    "role": "Color",
-                    "name": "Dorado.tv"
-                },
-                {
-                    "role": "VFX",
-                    "name": "Comppo"
-                },
-                {
-                    "role": "Editor",
-                    "name": "Julián Rivera"
-                },
-                {
-                    "role": "Música",
-                    "name": "Rodrigo Barbera"
-                },
-                {
-                    "role": "Audio",
-                    "name": "Silence / Rodolfo Romero"
-                }
-            ]
-        },
-        {
-            "client": "Cucapa",
-            "name": "Erick Meyenberg",
-            "slug": "cucapa_erick_meyenberg",
-            "production": "Cynthia Reyna",
-            "vimeoId": "917684615",
-            "credits": [
-                {
-                    "role": "Cliente",
-                    "name": "Cerveza Cucapá"
-                },
-                {
-                    "role": "Dirección",
-                    "name": "Kevin Rosales"
-                },
-                {
-                    "role": "Director de Fotografía",
-                    "name": "Alex Flores"
-                },
-                {
-                    "role": "Producción en línea",
-                    "name": "Ricardo Morales"
-                },
-                {
-                    "role": "Asistente de prod",
-                    "name": "Jorge Guarro"
-                },
-                {
-                    "role": "Asistente de cámara",
-                    "name": "Emilio García"
-                },
-                {
-                    "role": "Driver/Fixer",
-                    "name": "Carlos Godoy"
-                },
-                {
-                    "role": "Opticas",
-                    "name": "Ivan Zapién"
-                },
-                {
-                    "role": "Edición",
-                    "name": "Esteban Batres"
-                },
-                {
-                    "role": "Motion Graphics",
-                    "name": "Ale Marquez"
-                }
-            ]
-        },
-        {
             "client": "Gatorade",
             "name": "Leo Messi — Leogacy",
             "slug": "gatorade_leo_messi_leogacy",
@@ -475,200 +567,108 @@
             ]
         },
         {
-            "client": "Apple",
-            "name": "The Making of Suerte",
-            "slug": "apple_the_making_of_suerte",
+            "client": "Don Julio",
+            "name": "Yalitza Aparicio",
+            "slug": "donjulio_yalitza_aparicio",
             "production": "LANDIA",
-            "vimeoId": "1166881521",
+            "vimeoId": "1142611795",
             "credits": [
                 {
-                    "role": "Production Company",
-                    "name": "LANDIA"
+                    "role": "Cliente",
+                    "name": "Don Julio"
                 },
                 {
                     "role": "Agency",
-                    "name": "TBWA\\ Media Arts Lab"
+                    "name": "(anónimo)"
                 },
                 {
-                    "role": "Director BTS",
+                    "role": "Director Digital",
                     "name": "Kevin Rosales"
                 },
                 {
-                    "role": "Director de fotografía BTS",
-                    "name": "Diego Campos"
+                    "role": "Director de Fotografía Digital",
+                    "name": "Sebastian Blanco"
                 },
                 {
-                    "role": "Productora BTS",
-                    "name": "Julz Cruz"
+                    "role": "Productor Ejecutivo",
+                    "name": "Michelle Lacoste"
                 },
                 {
-                    "role": "Data Manager",
-                    "name": "Karen Méndez"
-                },
-                {
-                    "role": "Directores",
-                    "name": "CLIQUA"
-                },
-                {
-                    "role": "Director de fotografía",
-                    "name": "Xiaolong Liu"
-                },
-                {
-                    "role": "Director de fotografía 2da Unidad",
-                    "name": "César Echeverria"
-                },
-                {
-                    "role": "Managing Partners & Executive Producers",
-                    "name": "Thomas Amoedo | Claudio Amoedo"
-                },
-                {
-                    "role": "Directora de Producción y Productora Ejecutiva",
+                    "role": "Directora de producción",
                     "name": "Mercedes Guereño"
                 },
                 {
-                    "role": "Productora Ejecutiva Creativa",
-                    "name": "Luciana Abramzon"
+                    "role": "Managing Partner",
+                    "name": "Thomas Amoedo"
                 },
                 {
-                    "role": "Productor",
-                    "name": "Carlos Ayami Erdmann"
+                    "role": "Color",
+                    "name": "Dorado.tv"
                 },
                 {
-                    "role": "Gerente de producción",
-                    "name": "Rafael Hernández Garza"
+                    "role": "VFX",
+                    "name": "Comppo"
                 },
                 {
-                    "role": "Coordinadora de Producción",
-                    "name": "Tania A. Montiel"
+                    "role": "Editor",
+                    "name": "Julián Rivera"
                 },
                 {
-                    "role": "1st AD",
-                    "name": "Manuel Magallanes"
+                    "role": "Música",
+                    "name": "Rodrigo Barbera"
                 },
                 {
-                    "role": "2nd AD",
-                    "name": "Xavier Magallanes"
-                },
-                {
-                    "role": "3er AD",
-                    "name": "Vicente Mercado"
-                },
-                {
-                    "role": "Supervisora de guión",
-                    "name": "Manuela Rosas"
-                },
-                {
-                    "role": "Cast",
-                    "name": "CastingClub MX"
-                },
-                {
-                    "role": "Director de Casting",
-                    "name": "Gustavo Anselmi"
-                },
-                {
-                    "role": "Asistente casting",
-                    "name": "Valentina Ñonquepan"
-                },
-                {
-                    "role": "Coordinadora de casting",
-                    "name": "Inés García Siguero"
-                },
-                {
-                    "role": "Diseñadora de producción",
-                    "name": "Fernanda Guerrero"
-                },
-                {
-                    "role": "Director de arte",
-                    "name": "Victor Manuel Raya"
+                    "role": "Audio",
+                    "name": "Silence / Rodolfo Romero"
                 }
             ]
         },
         {
-            "client": "Ford Pro",
-            "name": "Dare to go pro",
-            "slug": "fordpro_dare_to_go_pro",
-            "production": "LANDIA",
-            "vimeoId": "1183521611",
+            "client": "Cucapa",
+            "name": "Erick Meyenberg",
+            "slug": "cucapa_erick_meyenberg",
+            "production": "Cynthia Reyna",
+            "vimeoId": "917684615",
             "credits": [
                 {
-                    "role": "Production Company",
-                    "name": "LANDIA"
+                    "role": "Cliente",
+                    "name": "Cerveza Cucapá"
                 },
                 {
-                    "role": "Director",
+                    "role": "Dirección",
                     "name": "Kevin Rosales"
                 },
                 {
                     "role": "Director de Fotografía",
-                    "name": "Sebastián Blanco"
+                    "name": "Alex Flores"
                 },
                 {
-                    "role": "Managing Partners & Executive Producers",
-                    "name": "Thomas Amoedo | Claudio Amoedo"
+                    "role": "Producción en línea",
+                    "name": "Ricardo Morales"
                 },
                 {
-                    "role": "Head of Production",
-                    "name": "Mercedes Guereño"
+                    "role": "Asistente de prod",
+                    "name": "Jorge Guarro"
                 },
                 {
-                    "role": "Executive Creative Producer",
-                    "name": "Luciana Abramzon"
+                    "role": "Asistente de cámara",
+                    "name": "Emilio García"
                 },
                 {
-                    "role": "Producer",
-                    "name": "Victoria Tolchinsky"
+                    "role": "Driver/Fixer",
+                    "name": "Carlos Godoy"
                 },
                 {
-                    "role": "1st AD",
-                    "name": "Diego Diez"
+                    "role": "Opticas",
+                    "name": "Ivan Zapién"
                 },
                 {
-                    "role": "2nd AD",
-                    "name": "Marlex Brando"
+                    "role": "Edición",
+                    "name": "Esteban Batres"
                 },
                 {
-                    "role": "Productora en línea",
-                    "name": "Karina Santiago"
-                },
-                {
-                    "role": "Gerente de Unidad",
-                    "name": "Israel Guzmán"
-                },
-                {
-                    "role": "Gerente de Logística",
-                    "name": "Eide Sosa"
-                },
-                {
-                    "role": "Gaffer",
-                    "name": "Mauricio Reyes"
-                },
-                {
-                    "role": "Director de Arte",
-                    "name": "Tomás Lecot"
-                },
-                {
-                    "role": "Especialista Autos",
-                    "name": "Chivata Lezama"
-                },
-                {
-                    "role": "Stylist",
-                    "name": "Eugenia Fernandez"
-                },
-                {
-                    "role": "Make Up",
-                    "name": "Lu Beltran"
-                },
-                {
-                    "role": "Locaciones",
-                    "name": "Luis Serrano Nava"
-                },
-                {
-                    "role": "Post & VFX",
-                    "name": "Atómica"
-                },
-                {
-                    "role": "Music & Sound Design",
-                    "name": "BDS"
+                    "role": "Motion Graphics",
+                    "name": "Ale Marquez"
                 }
             ]
         }
