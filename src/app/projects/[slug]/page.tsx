@@ -89,18 +89,19 @@ export default async function ProjectPage({
           className="h-[50dvh] w-full flex flex-col items-center md:justify-center overflow-y-auto overflow-x-hidden no-scrollbar"
         >
           <div className="w-full px-4 py-4">
-            <div
-              className={`${canelaFont.className} w-full flex justify-center text-xl items-baseline`}
-            >
-              a{" "}
-              <span
-                className={`${overusedFont.className} font-bold uppercase leading-none px-1`}
+            {project.production && (
+              <div
+                className={`${canelaFont.className} w-full flex justify-center text-xl items-baseline`}
               >
-                {project.production}
-              </span>{" "}
-              production
-            </div>
-
+                a{" "}
+                <span
+                  className={`${overusedFont.className} font-bold uppercase leading-none px-1`}
+                >
+                  {project.production}
+                </span>{" "}
+                production
+              </div>
+            )}
             <div className="flex flex-wrap justify-center gap-x-4 gap-y-2 px-6 py-4 pb-8">
               {project.credits.map((credit) => (
                 <div

@@ -8,15 +8,11 @@
             "vimeoId": "1183521611",
             "credits": [
                 {
-                    "role": "Production Company",
-                    "name": "LANDIA"
-                },
-                {
                     "role": "Director",
                     "name": "Kevin Rosales"
                 },
                 {
-                    "role": "Director de Fotografía",
+                    "role": "Director of Photography",
                     "name": "Sebastián Blanco"
                 },
                 {
@@ -44,15 +40,15 @@
                     "name": "Marlex Brando"
                 },
                 {
-                    "role": "Productora en línea",
+                    "role": "Line Producer",
                     "name": "Karina Santiago"
                 },
                 {
-                    "role": "Gerente de Unidad",
+                    "role": "Unit Manager",
                     "name": "Israel Guzmán"
                 },
                 {
-                    "role": "Gerente de Logística",
+                    "role": "Logistics Manager",
                     "name": "Eide Sosa"
                 },
                 {
@@ -60,11 +56,11 @@
                     "name": "Mauricio Reyes"
                 },
                 {
-                    "role": "Director de Arte",
+                    "role": "Art Director",
                     "name": "Tomás Lecot"
                 },
                 {
-                    "role": "Especialista Autos",
+                    "role": "Car Specialist",
                     "name": "Chivata Lezama"
                 },
                 {
@@ -76,7 +72,7 @@
                     "name": "Lu Beltran"
                 },
                 {
-                    "role": "Locaciones",
+                    "role": "Locations",
                     "name": "Luis Serrano Nava"
                 },
                 {
@@ -97,10 +93,6 @@
             "vimeoId": "1166881521",
             "credits": [
                 {
-                    "role": "Production Company",
-                    "name": "LANDIA"
-                },
-                {
                     "role": "Agency",
                     "name": "TBWA\\ Media Arts Lab"
                 },
@@ -109,11 +101,11 @@
                     "name": "Kevin Rosales"
                 },
                 {
-                    "role": "Director de fotografía BTS",
+                    "role": "BTS Director of Photography",
                     "name": "Diego Campos"
                 },
                 {
-                    "role": "Productora BTS",
+                    "role": "BTS Producer",
                     "name": "Julz Cruz"
                 },
                 {
@@ -121,15 +113,15 @@
                     "name": "Karen Méndez"
                 },
                 {
-                    "role": "Directores",
+                    "role": "Directors",
                     "name": "CLIQUA"
                 },
                 {
-                    "role": "Director de fotografía",
+                    "role": "Director of Photography",
                     "name": "Xiaolong Liu"
                 },
                 {
-                    "role": "Director de fotografía 2da Unidad",
+                    "role": "2nd Unit Director of Photography",
                     "name": "César Echeverria"
                 },
                 {
@@ -137,23 +129,23 @@
                     "name": "Thomas Amoedo | Claudio Amoedo"
                 },
                 {
-                    "role": "Directora de Producción y Productora Ejecutiva",
+                    "role": "Head of Production & Executive Producer",
                     "name": "Mercedes Guereño"
                 },
                 {
-                    "role": "Productora Ejecutiva Creativa",
+                    "role": "Creative Executive Producer",
                     "name": "Luciana Abramzon"
                 },
                 {
-                    "role": "Productor",
+                    "role": "Producer",
                     "name": "Carlos Ayami Erdmann"
                 },
                 {
-                    "role": "Gerente de producción",
+                    "role": "Production Manager",
                     "name": "Rafael Hernández Garza"
                 },
                 {
-                    "role": "Coordinadora de Producción",
+                    "role": "Production Coordinator",
                     "name": "Tania A. Montiel"
                 },
                 {
@@ -165,11 +157,11 @@
                     "name": "Xavier Magallanes"
                 },
                 {
-                    "role": "3er AD",
+                    "role": "3rd AD",
                     "name": "Vicente Mercado"
                 },
                 {
-                    "role": "Supervisora de guión",
+                    "role": "Script Supervisor",
                     "name": "Manuela Rosas"
                 },
                 {
@@ -177,23 +169,23 @@
                     "name": "CastingClub MX"
                 },
                 {
-                    "role": "Director de Casting",
+                    "role": "Casting Director",
                     "name": "Gustavo Anselmi"
                 },
                 {
-                    "role": "Asistente casting",
+                    "role": "Casting Assistant",
                     "name": "Valentina Ñonquepan"
                 },
                 {
-                    "role": "Coordinadora de casting",
+                    "role": "Casting Coordinator",
                     "name": "Inés García Siguero"
                 },
                 {
-                    "role": "Diseñadora de producción",
+                    "role": "Production Designer",
                     "name": "Fernanda Guerrero"
                 },
                 {
-                    "role": "Director de arte",
+                    "role": "Art Director",
                     "name": "Victor Manuel Raya"
                 }
             ]
@@ -382,7 +374,7 @@
                     "name": "Victor Rodrigo Marquez"
                 },
                 {
-                    "role": "Servicio al cliente",
+                    "role": "Client Service",
                     "name": "Mariano Paz"
                 }
             ]
@@ -443,7 +435,7 @@
                     "name": "Xavi Santaolaya"
                 },
                 {
-                    "role": "Post-Producción",
+                    "role": "Post-Production",
                     "name": "COMPPO"
                 },
                 {
@@ -476,19 +468,19 @@
             "vimeoId": "913846970",
             "credits": [
                 {
-                    "role": "Cliente",
+                    "role": "Client",
                     "name": "Aderogyl"
                 },
                 {
-                    "role": "Agencia",
+                    "role": "Agency",
                     "name": "Leo Burnett"
                 },
                 {
-                    "role": "Dirigido por",
+                    "role": "Directed by",
                     "name": "Kevin Rosales"
                 },
                 {
-                    "role": "Dirigido por",
+                    "role": "Directed by",
                     "name": "Alex Flores"
                 },
                 {
@@ -529,15 +521,15 @@
             "vimeoId": "1142598017",
             "credits": [
                 {
-                    "role": "Director Digital",
+                    "role": "Digital Director",
                     "name": "Kevin Rosales"
                 },
                 {
-                    "role": "Director de Fotografía",
+                    "role": "Director of Photography",
                     "name": "Carlos Tellez"
                 },
                 {
-                    "role": "Directora Hero",
+                    "role": "Hero Director",
                     "name": "Veronica Von"
                 },
                 {
@@ -574,7 +566,7 @@
             "vimeoId": "1142611795",
             "credits": [
                 {
-                    "role": "Cliente",
+                    "role": "Client",
                     "name": "Don Julio"
                 },
                 {
@@ -582,19 +574,19 @@
                     "name": "(anónimo)"
                 },
                 {
-                    "role": "Director Digital",
+                    "role": "Digital Director",
                     "name": "Kevin Rosales"
                 },
                 {
-                    "role": "Director de Fotografía Digital",
+                    "role": "Digital Director of Photography",
                     "name": "Sebastian Blanco"
                 },
                 {
-                    "role": "Productor Ejecutivo",
+                    "role": "Executive Producer",
                     "name": "Michelle Lacoste"
                 },
                 {
-                    "role": "Directora de producción",
+                    "role": "Production Director",
                     "name": "Mercedes Guereño"
                 },
                 {
@@ -614,7 +606,7 @@
                     "name": "Julián Rivera"
                 },
                 {
-                    "role": "Música",
+                    "role": "Music",
                     "name": "Rodrigo Barbera"
                 },
                 {
@@ -627,31 +619,34 @@
             "client": "Cucapa",
             "name": "Erick Meyenberg",
             "slug": "cucapa_erick_meyenberg",
-            "production": "Cynthia Reyna",
             "vimeoId": "917684615",
-            "credits": [
+            "credits": [    
                 {
-                    "role": "Cliente",
+                    "role": "Producer",
+                    "name": "Cynthia Reyna"
+                },
+                {
+                    "role": "Client",
                     "name": "Cerveza Cucapá"
                 },
                 {
-                    "role": "Dirección",
+                    "role": "Director",
                     "name": "Kevin Rosales"
                 },
                 {
-                    "role": "Director de Fotografía",
+                    "role": "Director of Photography",
                     "name": "Alex Flores"
                 },
                 {
-                    "role": "Producción en línea",
+                    "role": "Line Production",
                     "name": "Ricardo Morales"
                 },
                 {
-                    "role": "Asistente de prod",
+                    "role": "Production Assistant",
                     "name": "Jorge Guarro"
                 },
                 {
-                    "role": "Asistente de cámara",
+                    "role": "Camera Assistant",
                     "name": "Emilio García"
                 },
                 {
@@ -659,11 +654,11 @@
                     "name": "Carlos Godoy"
                 },
                 {
-                    "role": "Opticas",
+                    "role": "Optics",
                     "name": "Ivan Zapién"
                 },
                 {
-                    "role": "Edición",
+                    "role": "Edit",
                     "name": "Esteban Batres"
                 },
                 {
