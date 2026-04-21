@@ -4,6 +4,8 @@ import { headers } from "next/headers";
 import { notFound } from "next/navigation";
 import type { Metadata, ResolvingMetadata } from "next";
 import localFont from "next/font/local";
+import fs from "fs";
+import path from "path";
 
 const canelaFont = localFont({
   src: "/../../../../public/Canela-Thin.otf",
@@ -27,14 +29,12 @@ export type Project = {
 };
 
 async function getProjects(): Promise<Project[]> {
-  const h = await headers();
-  const host = h.get("x-forwarded-host") ?? h.get("host");
-  const proto = h.get("x-forwarded-proto") ?? "http";
-  const url = `${proto}://${host}/projects.json`;
-  const res = await fetch(url, { cache: "force-cache" });
-  const data = await res.json();
+  const filePath = path.join(process.cwd(), "public", "projects.json");
+  const raw = fs.readFileSync(filePath, "utf-8");
+  const data = JSON.parse(raw);
   return (data.projects ?? []) as Project[];
 }
+
 
 export async function generateMetadata({
   params,
