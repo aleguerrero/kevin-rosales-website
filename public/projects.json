@@ -1,6 +1,191 @@
 {
     "projects": [
         {
+            "client": "BBVA",
+            "name": "Fundación BBVA",
+            "slug": "bbva_fundacion_bbva",
+            "production": "LANDIA",
+            "vimeoId": "1214144030",
+            "credits": [
+                {
+                    "role": "Director",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "Agency",
+                    "name": "Teran TBWA"
+                },
+                {
+                    "role": "Creative Direction",
+                    "name": "Zoe Chavez"
+                },
+                {
+                    "role": "Creative Direction",
+                    "name": "Irene Preciado"
+                },
+                {
+                    "role": "Creative Direction",
+                    "name": "Ricardo Rueda"
+                },
+                {
+                    "role": "Producer",
+                    "name": "Kristina Patiño"
+                },
+                {
+                    "role": "Managing Partners & Executive Producers",
+                    "name": "Thomas Amoedo | Claudio Amoedo"
+                },
+                {
+                    "role": "Head of Production",
+                    "name": "Mercedes Guereño"
+                },
+                {
+                    "role": "Executive Creative Producer",
+                    "name": "Luciana Abramzon"
+                },
+                {
+                    "role": "Producer",
+                    "name": "Paola Cortés"
+                },
+                {
+                    "role": "DP",
+                    "name": "Flavia Martínez"
+                },
+                {
+                    "role": "Art Director",
+                    "name": "Carolina Lett"
+                },
+                {
+                    "role": "Editor",
+                    "name": "Charly Perezunda"
+                },
+                {
+                    "role": "Additional Editing",
+                    "name": "Victor González"
+                },
+                {
+                    "role": "Online",
+                    "name": "Wilberth Letrán"
+                },
+                {
+                    "role": "Color Grading",
+                    "name": "Miguel Escudero"
+                },
+                {
+                    "role": "Original Music + Sound Design",
+                    "name": "Alexander Hippert"
+                },
+                {
+                    "role": "Violinist",
+                    "name": "Tashika"
+                },
+                {
+                    "role": "Line Producer",
+                    "name": "Karina Santiago"
+                },
+                {
+                    "role": "Unit Producer",
+                    "name": "Israel Guzmán"
+                },
+                {
+                    "role": "Production Coordinator",
+                    "name": "Javier Saucedo"
+                },
+                {
+                    "role": "Production Assistant",
+                    "name": "Oscar Fernando Jimenez"
+                },
+                {
+                    "role": "Production Assistant",
+                    "name": "Alejandro Guarneros"
+                },
+                {
+                    "role": "1st AD",
+                    "name": "Carlos González"
+                },
+                {
+                    "role": "2nd AD",
+                    "name": "Fernanda Fraga"
+                },
+                {
+                    "role": "1st AC",
+                    "name": "Alejandro Viilanueva"
+                },
+                {
+                    "role": "Camera B Operator",
+                    "name": "Edwin García Haro"
+                },
+                {
+                    "role": "Gaffer",
+                    "name": "Mauricio Reyes"
+                },
+                {
+                    "role": "Wardrobe",
+                    "name": "Maricarmen Marenco"
+                },
+                {
+                    "role": "Wardrobe Assistant",
+                    "name": "Ángel Estrada López"
+                },
+                {
+                    "role": "Decorator",
+                    "name": "Matias Olivastri"
+                },
+                {
+                    "role": "Art Assistant",
+                    "name": "Monica Indarraga"
+                },
+                {
+                    "role": "On Set",
+                    "name": "Israel Martínez"
+                },
+                {
+                    "role": "Swing",
+                    "name": "Gumaro Lezama"
+                },
+                {
+                    "role": "Still Photography",
+                    "name": "Alex Flores"
+                },
+                {
+                    "role": "Sound",
+                    "name": "Iván David Fourniere"
+                },
+                {
+                    "role": "Sound Mixer",
+                    "name": "Oscar Peña Ramírez"
+                },
+                {
+                    "role": "Boom Operator",
+                    "name": "Rafael Arana Silva"
+                },
+                {
+                    "role": "Hair & Makeup",
+                    "name": "Adriana Inés Chara"
+                },
+                {
+                    "role": "Hair & Makeup Assistant",
+                    "name": "Valeria Navarro"
+                },
+                {
+                    "role": "Picture Car",
+                    "name": "Héctor Gómez Jimenez"
+                },
+                {
+                    "role": "Extras",
+                    "name": "Marcos Sanromán"
+                },
+                {
+                    "role": "Extras",
+                    "name": "Augusto Lecona"
+                },
+                {
+                    "role": "Locations",
+                    "name": "Rubén Ignacio Portal"
+                }
+            ]
+        },
+        {
             "client": "Ford Pro",
             "name": "Dare to go pro",
             "slug": "fordpro_dare_to_go_pro",
@@ -620,7 +805,7 @@
             "name": "Erick Meyenberg",
             "slug": "cucapa_erick_meyenberg",
             "vimeoId": "917684615",
-            "credits": [    
+            "credits": [
                 {
                     "role": "Producer",
                     "name": "Cynthia Reyna"
@@ -664,191 +849,6 @@
                 {
                     "role": "Motion Graphics",
                     "name": "Ale Marquez"
-                }
-            ]
-        },
-        {
-            "client": "BBVA",
-            "name": "Fundación BBVA",
-            "slug": "bbva_fundacion_bbva",
-            "production": "LANDIA",
-            "vimeoId": "1214144030",
-            "credits": [
-                {
-                    "role": "Director",
-                    "name": "Kevin Rosales"
-                },
-                {
-                    "role": "Agency",
-                    "name": "Teran TBWA"
-                },
-                {
-                    "role": "Creative Direction",
-                    "name": "Zoe Chavez"
-                },
-                {
-                    "role": "Creative Direction",
-                    "name": "Irene Preciado"
-                },
-                {
-                    "role": "Creative Direction",
-                    "name": "Ricardo Rueda"
-                },
-                {
-                    "role": "Producer",
-                    "name": "Kristina Patiño"
-                },
-                {
-                    "role": "Managing Partners & Executive Producers",
-                    "name": "Thomas Amoedo | Claudio Amoedo"
-                },
-                {
-                    "role": "Head of Production",
-                    "name": "Mercedes Guereño"
-                },
-                {
-                    "role": "Executive Creative Producer",
-                    "name": "Luciana Abramzon"
-                },
-                {
-                    "role": "Producer",
-                    "name": "Paola Cortés"
-                },
-                {
-                    "role": "DP",
-                    "name": "Flavia Martínez"
-                },
-                {
-                    "role": "Art Director",
-                    "name": "Carolina Lett"
-                },
-                {
-                    "role": "Editor",
-                    "name": "Charly Perezunda"
-                },
-                {
-                    "role": "Additional Editing",
-                    "name": "Victor González"
-                },
-                {
-                    "role": "Online",
-                    "name": "Wilberth Letrán"
-                },
-                {
-                    "role": "Color Grading",
-                    "name": "Miguel Escudero"
-                },
-                {
-                    "role": "Original Music + Sound Design",
-                    "name": "Alexander Hippert"
-                },
-                {
-                    "role": "Violinist",
-                    "name": "Tashika"
-                },
-                {
-                    "role": "Line Producer",
-                    "name": "Karina Santiago"
-                },
-                {
-                    "role": "Unit Producer",
-                    "name": "Israel Guzmán"
-                },
-                {
-                    "role": "Production Coordinator",
-                    "name": "Javier Saucedo"
-                },
-                {
-                    "role": "Production Assistant",
-                    "name": "Oscar Fernando Jimenez"
-                },
-                {
-                    "role": "Production Assistant",
-                    "name": "Alejandro Guarneros"
-                },
-                {
-                    "role": "1st AD",
-                    "name": "Carlos González"
-                },
-                {
-                    "role": "2nd AD",
-                    "name": "Fernanda Fraga"
-                },
-                {
-                    "role": "1st AC",
-                    "name": "Alejandro Viilanueva"
-                },
-                {
-                    "role": "Camera B Operator",
-                    "name": "Edwin García Haro"
-                },
-                {
-                    "role": "Gaffer",
-                    "name": "Mauricio Reyes"
-                },
-                {
-                    "role": "Wardrobe",
-                    "name": "Maricarmen Marenco"
-                },
-                {
-                    "role": "Wardrobe Assistant",
-                    "name": "Ángel Estrada López"
-                },
-                {
-                    "role": "Decorator",
-                    "name": "Matias Olivastri"
-                },
-                {
-                    "role": "Art Assistant",
-                    "name": "Monica Indarraga"
-                },
-                {
-                    "role": "On Set",
-                    "name": "Israel Martínez"
-                },
-                {
-                    "role": "Swing",
-                    "name": "Gumaro Lezama"
-                },
-                {
-                    "role": "Still Photography",
-                    "name": "Alex Flores"
-                },
-                {
-                    "role": "Sound",
-                    "name": "Iván David Fourniere"
-                },
-                {
-                    "role": "Sound Mixer",
-                    "name": "Oscar Peña Ramírez"
-                },
-                {
-                    "role": "Boom Operator",
-                    "name": "Rafael Arana Silva"
-                },
-                {
-                    "role": "Hair & Makeup",
-                    "name": "Adriana Inés Chara"
-                },
-                {
-                    "role": "Hair & Makeup Assistant",
-                    "name": "Valeria Navarro"
-                },
-                {
-                    "role": "Picture Car",
-                    "name": "Héctor Gómez Jimenez"
-                },
-                {
-                    "role": "Extras",
-                    "name": "Marcos Sanromán"
-                },
-                {
-                    "role": "Extras",
-                    "name": "Augusto Lecona"
-                },
-                {
-                    "role": "Locations",
-                    "name": "Rubén Ignacio Portal"
                 }
             ]
         }
