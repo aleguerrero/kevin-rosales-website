@@ -1,287 +1,6 @@
 {
     "projects": [
         {
-            "client": "OPIA Community",
-            "name": "Sofi Paez — Water",
-            "slug": "opiacommunity_sofi_paez_water",
-            "vimeoId": "1231157627",
-            "credits": [
-                {
-                    "role": "Director",
-                    "name": "Kevin Rosales"
-                },
-                {
-                    "role": "Director of Photography",
-                    "name": "Sebastián Blanco"
-                },
-                {
-                    "role": "Creative Direction",
-                    "name": "Kevin Rosales & María Huerta"
-                },
-                {
-                    "role": "Composed by",
-                    "name": "Sofi Paez"
-                },
-                {
-                    "role": "Recorded by",
-                    "name": "Miguel Murrieta Vásquez"
-                },
-                {
-                    "role": "Produced by",
-                    "name": "Sofi Paez and Evan Gildersleeve"
-                },
-                {
-                    "role": "Mastered by",
-                    "name": "Zino Mikorey"
-                },
-                {
-                    "role": "Released on",
-                    "name": "Opia Community"
-                },
-                {
-                    "role": "Talent",
-                    "name": "Mila Acuña Cartín"
-                },
-                {
-                    "role": "Production",
-                    "name": "Gregory Jimenez"
-                },
-                {
-                    "role": "Production Designer",
-                    "name": "Paz Howell"
-                },
-                {
-                    "role": "BTS",
-                    "name": "Alejandro Guerrero"
-                },
-                {
-                    "role": "Film Stock",
-                    "name": "Kodak Shot Film México"
-                },
-                {
-                    "role": "Film Development",
-                    "name": "Labo Film"
-                },
-                {
-                    "role": "Scan",
-                    "name": "Terminal Films"
-                },
-                {
-                    "role": "Supported by",
-                    "name": "Initiative Musik gGmbH with project funds from the Federal Government Commissioner for Culture and Media"
-                },
-                {
-                    "role": "Shot on",
-                    "name": "Kodak Vision 3 | 16mm 250D & 500T"
-                }
-            ]
-        },
-        {
-            "client": "Cerveza Indio",
-            "name": "Miguel's Dream",
-            "slug": "indio_miguels_dream",
-            "production": "LANDIA",
-            "vimeoId": "1225313442",
-            "credits": [
-                {
-                    "role": "Co Directors",
-                    "name": "Kevin Rosales & Nono Ayuso"
-                },
-                {
-                    "role": "Production Company",
-                    "name": "LANDIA"
-                },
-                {
-                    "role": "Talent",
-                    "name": "José Sabino, Diego Ramos, Daniela Aldonza"
-                },
-                {
-                    "role": "Agency",
-                    "name": "OGILVY"
-                },
-                {
-                    "role": "CCOs Ogilvy México & Miami",
-                    "name": "Rafa Reina, Diego Muñoz"
-                },
-                {
-                    "role": "Creative Director",
-                    "name": "Ismael Mora"
-                },
-                {
-                    "role": "Associate Creative Director (Art)",
-                    "name": "Montserrat Villanueva"
-                },
-                {
-                    "role": "Associate Creative Director (Copy)",
-                    "name": "Gustavo Ayala"
-                },
-                {
-                    "role": "Head Of Production, WPP Production",
-                    "name": "Francisco Riveroll"
-                },
-                {
-                    "role": "Senior Producer, WPP Production",
-                    "name": "Ereth Bolaños"
-                },
-                {
-                    "role": "General Director LANDIA",
-                    "name": "Thomas Amoedo"
-                },
-                {
-                    "role": "Creative Producer",
-                    "name": "Luciana Abramzon"
-                },
-                {
-                    "role": "Production Director",
-                    "name": "Mercedes Guereño"
-                },
-                {
-                    "role": "Executive Producer",
-                    "name": "Marina Blanco"
-                },
-                {
-                    "role": "Line Producer",
-                    "name": "Karina Santiago"
-                },
-                {
-                    "role": "Unit Manager",
-                    "name": "Israel Guzmán Trejo"
-                },
-                {
-                    "role": "Coordinator",
-                    "name": "Juliana Garzon"
-                },
-                {
-                    "role": "APOC",
-                    "name": "Alex Guarneros"
-                },
-                {
-                    "role": "Runners",
-                    "name": "Hector Gomez, Miguel Santiago"
-                },
-                {
-                    "role": "DoP",
-                    "name": "Alfonso Herrera"
-                },
-                {
-                    "role": "B Unit DoP",
-                    "name": "Odei Zabaleta & Sofia Lizzoli"
-                },
-                {
-                    "role": "Production Designer",
-                    "name": "Fernanda Contreras"
-                },
-                {
-                    "role": "Art Director",
-                    "name": "Marina Covag"
-                },
-                {
-                    "role": "Set Decorator",
-                    "name": "Eva Fátima Díaz Olivera"
-                },
-                {
-                    "role": "Gaffer",
-                    "name": "Alejandro Tapia"
-                },
-                {
-                    "role": "1st AC",
-                    "name": "Vanessa Marcano"
-                },
-                {
-                    "role": "Cam B 1st AC",
-                    "name": "Rodrigo Cervantes"
-                },
-                {
-                    "role": "AD",
-                    "name": "Kika Bueno Sarti"
-                },
-                {
-                    "role": "2nd AD",
-                    "name": "David Porro Toledo"
-                },
-                {
-                    "role": "2nd 2nd AD",
-                    "name": "Abdias Solano"
-                },
-                {
-                    "role": "Wardrobe Stylist",
-                    "name": "Marina Slobodianik"
-                },
-                {
-                    "role": "Wardrobe Coordinator",
-                    "name": "Diana Quintero"
-                },
-                {
-                    "role": "Wardrobe Assistants",
-                    "name": "Jovana Veloz, Yanira Villagran"
-                },
-                {
-                    "role": "Make Up Artist",
-                    "name": "Maximiliano Olivares"
-                },
-                {
-                    "role": "Make Up Assistants",
-                    "name": "Aura Nathalie Rozo, Blanca Jacqueline Vallejo"
-                },
-                {
-                    "role": "Location Manager",
-                    "name": "Aleks Lira"
-                },
-                {
-                    "role": "Casting",
-                    "name": "Casting Club MX"
-                },
-                {
-                    "role": "Casting Director",
-                    "name": "Gustavo Anselmi"
-                },
-                {
-                    "role": "Sound Recordist",
-                    "name": "David Fournier"
-                },
-                {
-                    "role": "Special Effects",
-                    "name": "Ambriz FX"
-                },
-                {
-                    "role": "VTR",
-                    "name": "Bahena"
-                },
-                {
-                    "role": "DIT",
-                    "name": "Mario Alberto Hernández"
-                },
-                {
-                    "role": "Catering",
-                    "name": "The kitchen Catering"
-                },
-                {
-                    "role": "Editor",
-                    "name": "Iñaki Pereira"
-                },
-                {
-                    "role": "Colorist",
-                    "name": "Nadia Khairat"
-                },
-                {
-                    "role": "Post Producer Coordinator",
-                    "name": "Iván España"
-                },
-                {
-                    "role": "Animation Company",
-                    "name": "WIP Post"
-                },
-                {
-                    "role": "Music",
-                    "name": "Juan Luqui"
-                },
-                {
-                    "role": "Sound Mix",
-                    "name": "Pulso Music LA"
-                }
-            ]
-        },
-        {
             "client": "BBVA",
             "name": "Fundación BBVA",
             "slug": "bbva_fundacion_bbva",
@@ -552,6 +271,211 @@
             ]
         },
         {
+            "client": "Cerveza Indio",
+            "name": "Miguel's Dream",
+            "slug": "indio_miguels_dream",
+            "production": "LANDIA",
+            "vimeoId": "1225313442",
+            "credits": [
+                {
+                    "role": "Co Directors",
+                    "name": "Kevin Rosales & Nono Ayuso"
+                },
+                {
+                    "role": "Production Company",
+                    "name": "LANDIA"
+                },
+                {
+                    "role": "Talent",
+                    "name": "José Sabino, Diego Ramos, Daniela Aldonza"
+                },
+                {
+                    "role": "Agency",
+                    "name": "OGILVY"
+                },
+                {
+                    "role": "CCOs Ogilvy México & Miami",
+                    "name": "Rafa Reina, Diego Muñoz"
+                },
+                {
+                    "role": "Creative Director",
+                    "name": "Ismael Mora"
+                },
+                {
+                    "role": "Associate Creative Director (Art)",
+                    "name": "Montserrat Villanueva"
+                },
+                {
+                    "role": "Associate Creative Director (Copy)",
+                    "name": "Gustavo Ayala"
+                },
+                {
+                    "role": "Head Of Production, WPP Production",
+                    "name": "Francisco Riveroll"
+                },
+                {
+                    "role": "Senior Producer, WPP Production",
+                    "name": "Ereth Bolaños"
+                },
+                {
+                    "role": "General Director LANDIA",
+                    "name": "Thomas Amoedo"
+                },
+                {
+                    "role": "Creative Producer",
+                    "name": "Luciana Abramzon"
+                },
+                {
+                    "role": "Production Director",
+                    "name": "Mercedes Guereño"
+                },
+                {
+                    "role": "Executive Producer",
+                    "name": "Marina Blanco"
+                },
+                {
+                    "role": "Line Producer",
+                    "name": "Karina Santiago"
+                },
+                {
+                    "role": "Unit Manager",
+                    "name": "Israel Guzmán Trejo"
+                },
+                {
+                    "role": "Coordinator",
+                    "name": "Juliana Garzon"
+                },
+                {
+                    "role": "APOC",
+                    "name": "Alex Guarneros"
+                },
+                {
+                    "role": "Runners",
+                    "name": "Hector Gomez, Miguel Santiago"
+                },
+                {
+                    "role": "DoP",
+                    "name": "Alfonso Herrera"
+                },
+                {
+                    "role": "B Unit DoP",
+                    "name": "Odei Zabaleta & Sofia Lizzoli"
+                },
+                {
+                    "role": "Production Designer",
+                    "name": "Fernanda Contreras"
+                },
+                {
+                    "role": "Art Director",
+                    "name": "Marina Covag"
+                },
+                {
+                    "role": "Set Decorator",
+                    "name": "Eva Fátima Díaz Olivera"
+                },
+                {
+                    "role": "Gaffer",
+                    "name": "Alejandro Tapia"
+                },
+                {
+                    "role": "1st AC",
+                    "name": "Vanessa Marcano"
+                },
+                {
+                    "role": "Cam B 1st AC",
+                    "name": "Rodrigo Cervantes"
+                },
+                {
+                    "role": "AD",
+                    "name": "Kika Bueno Sarti"
+                },
+                {
+                    "role": "2nd AD",
+                    "name": "David Porro Toledo"
+                },
+                {
+                    "role": "2nd 2nd AD",
+                    "name": "Abdias Solano"
+                },
+                {
+                    "role": "Wardrobe Stylist",
+                    "name": "Marina Slobodianik"
+                },
+                {
+                    "role": "Wardrobe Coordinator",
+                    "name": "Diana Quintero"
+                },
+                {
+                    "role": "Wardrobe Assistants",
+                    "name": "Jovana Veloz, Yanira Villagran"
+                },
+                {
+                    "role": "Make Up Artist",
+                    "name": "Maximiliano Olivares"
+                },
+                {
+                    "role": "Make Up Assistants",
+                    "name": "Aura Nathalie Rozo, Blanca Jacqueline Vallejo"
+                },
+                {
+                    "role": "Location Manager",
+                    "name": "Aleks Lira"
+                },
+                {
+                    "role": "Casting",
+                    "name": "Casting Club MX"
+                },
+                {
+                    "role": "Casting Director",
+                    "name": "Gustavo Anselmi"
+                },
+                {
+                    "role": "Sound Recordist",
+                    "name": "David Fournier"
+                },
+                {
+                    "role": "Special Effects",
+                    "name": "Ambriz FX"
+                },
+                {
+                    "role": "VTR",
+                    "name": "Bahena"
+                },
+                {
+                    "role": "DIT",
+                    "name": "Mario Alberto Hernández"
+                },
+                {
+                    "role": "Catering",
+                    "name": "The kitchen Catering"
+                },
+                {
+                    "role": "Editor",
+                    "name": "Iñaki Pereira"
+                },
+                {
+                    "role": "Colorist",
+                    "name": "Nadia Khairat"
+                },
+                {
+                    "role": "Post Producer Coordinator",
+                    "name": "Iván España"
+                },
+                {
+                    "role": "Animation Company",
+                    "name": "WIP Post"
+                },
+                {
+                    "role": "Music",
+                    "name": "Juan Luqui"
+                },
+                {
+                    "role": "Sound Mix",
+                    "name": "Pulso Music LA"
+                }
+            ]
+        },
+        {
             "client": "Apple",
             "name": "The Making of Suerte",
             "slug": "apple_the_making_of_suerte",
@@ -561,6 +485,82 @@
                 {
                     "role": "Director BTS",
                     "name": "Kevin Rosales"
+                }
+            ]
+        },
+        {
+            "client": "OPIA Community",
+            "name": "Sofi Paez — Water",
+            "slug": "opiacommunity_sofi_paez_water",
+            "vimeoId": "1231157627",
+            "credits": [
+                {
+                    "role": "Director",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "Director of Photography",
+                    "name": "Sebastián Blanco"
+                },
+                {
+                    "role": "Creative Direction",
+                    "name": "Kevin Rosales & María Huerta"
+                },
+                {
+                    "role": "Composed by",
+                    "name": "Sofi Paez"
+                },
+                {
+                    "role": "Recorded by",
+                    "name": "Miguel Murrieta Vásquez"
+                },
+                {
+                    "role": "Produced by",
+                    "name": "Sofi Paez and Evan Gildersleeve"
+                },
+                {
+                    "role": "Mastered by",
+                    "name": "Zino Mikorey"
+                },
+                {
+                    "role": "Released on",
+                    "name": "Opia Community"
+                },
+                {
+                    "role": "Talent",
+                    "name": "Mila Acuña Cartín"
+                },
+                {
+                    "role": "Production",
+                    "name": "Gregory Jimenez"
+                },
+                {
+                    "role": "Production Designer",
+                    "name": "Paz Howell"
+                },
+                {
+                    "role": "BTS",
+                    "name": "Alejandro Guerrero"
+                },
+                {
+                    "role": "Film Stock",
+                    "name": "Kodak Shot Film México"
+                },
+                {
+                    "role": "Film Development",
+                    "name": "Labo Film"
+                },
+                {
+                    "role": "Scan",
+                    "name": "Terminal Films"
+                },
+                {
+                    "role": "Supported by",
+                    "name": "Initiative Musik gGmbH with project funds from the Federal Government Commissioner for Culture and Media"
+                },
+                {
+                    "role": "Shot on",
+                    "name": "Kodak Vision 3 | 16mm 250D & 500T"
                 }
             ]
         },
@@ -835,6 +835,58 @@
             ]
         },
         {
+            "client": "Cucapa",
+            "name": "Erick Meyenberg",
+            "slug": "cucapa_erick_meyenberg",
+            "vimeoId": "917684615",
+            "credits": [
+                {
+                    "role": "Producer",
+                    "name": "Cynthia Reyna"
+                },
+                {
+                    "role": "Client",
+                    "name": "Cerveza Cucapá"
+                },
+                {
+                    "role": "Director",
+                    "name": "Kevin Rosales"
+                },
+                {
+                    "role": "Director of Photography",
+                    "name": "Alex Flores"
+                },
+                {
+                    "role": "Line Production",
+                    "name": "Ricardo Morales"
+                },
+                {
+                    "role": "Production Assistant",
+                    "name": "Jorge Guarro"
+                },
+                {
+                    "role": "Camera Assistant",
+                    "name": "Emilio García"
+                },
+                {
+                    "role": "Driver/Fixer",
+                    "name": "Carlos Godoy"
+                },
+                {
+                    "role": "Optics",
+                    "name": "Ivan Zapién"
+                },
+                {
+                    "role": "Edit",
+                    "name": "Esteban Batres"
+                },
+                {
+                    "role": "Motion Graphics",
+                    "name": "Ale Marquez"
+                }
+            ]
+        },
+        {
             "client": "Aderogyl",
             "name": "Vitamins",
             "slug": "aderogyl_vitamins",
@@ -888,51 +940,6 @@
             ]
         },
         {
-            "client": "Corona",
-            "name": "Golden Light",
-            "slug": "corona_golden_light",
-            "production": "LANDIA",
-            "vimeoId": "1142598017",
-            "credits": [
-                {
-                    "role": "Digital Director",
-                    "name": "Kevin Rosales"
-                },
-                {
-                    "role": "Director of Photography",
-                    "name": "Carlos Tellez"
-                },
-                {
-                    "role": "Hero Director",
-                    "name": "Veronica Von"
-                },
-                {
-                    "role": "Executive Producer",
-                    "name": "Thomas Amoedo / Ezequiel Avaro"
-                },
-                {
-                    "role": "Post Production Supervisor",
-                    "name": "Luis Fernando Zerecero"
-                },
-                {
-                    "role": "Compositing/VFX",
-                    "name": "Ploop VFX / Los De Post"
-                },
-                {
-                    "role": "Colorist",
-                    "name": "Juan Luis Reza"
-                },
-                {
-                    "role": "Music & Sound Design",
-                    "name": "BDS"
-                },
-                {
-                    "role": "Online / Finishing",
-                    "name": "Los De Post"
-                }
-            ]
-        },
-        {
             "client": "Don Julio",
             "name": "Yalitza Aparicio",
             "slug": "donjulio_yalitza_aparicio",
@@ -978,54 +985,47 @@
             ]
         },
         {
-            "client": "Cucapa",
-            "name": "Erick Meyenberg",
-            "slug": "cucapa_erick_meyenberg",
-            "vimeoId": "917684615",
+            "client": "Corona",
+            "name": "Golden Light",
+            "slug": "corona_golden_light",
+            "production": "LANDIA",
+            "vimeoId": "1142598017",
             "credits": [
                 {
-                    "role": "Producer",
-                    "name": "Cynthia Reyna"
-                },
-                {
-                    "role": "Client",
-                    "name": "Cerveza Cucapá"
-                },
-                {
-                    "role": "Director",
+                    "role": "Digital Director",
                     "name": "Kevin Rosales"
                 },
                 {
                     "role": "Director of Photography",
-                    "name": "Alex Flores"
+                    "name": "Carlos Tellez"
                 },
                 {
-                    "role": "Line Production",
-                    "name": "Ricardo Morales"
+                    "role": "Hero Director",
+                    "name": "Veronica Von"
                 },
                 {
-                    "role": "Production Assistant",
-                    "name": "Jorge Guarro"
+                    "role": "Executive Producer",
+                    "name": "Thomas Amoedo / Ezequiel Avaro"
                 },
                 {
-                    "role": "Camera Assistant",
-                    "name": "Emilio García"
+                    "role": "Post Production Supervisor",
+                    "name": "Luis Fernando Zerecero"
                 },
                 {
-                    "role": "Driver/Fixer",
-                    "name": "Carlos Godoy"
+                    "role": "Compositing/VFX",
+                    "name": "Ploop VFX / Los De Post"
                 },
                 {
-                    "role": "Optics",
-                    "name": "Ivan Zapién"
+                    "role": "Colorist",
+                    "name": "Juan Luis Reza"
                 },
                 {
-                    "role": "Edit",
-                    "name": "Esteban Batres"
+                    "role": "Music & Sound Design",
+                    "name": "BDS"
                 },
                 {
-                    "role": "Motion Graphics",
-                    "name": "Ale Marquez"
+                    "role": "Online / Finishing",
+                    "name": "Los De Post"
                 }
             ]
         }
