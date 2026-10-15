@@ -19,7 +19,7 @@ export default function Header() {
       setOnVideo(true);
     }
 
-    if (route === "about" || route === "stills" ) {
+    if (route === "about" || route === "stills" || route === "smw" ) {
       setOnSA(true);
     }
   }, [pathname]);
@@ -51,6 +51,10 @@ export default function Header() {
                 projects
               </button>
             )}
+
+            <Link href="/smw" className="ml-4 cursor-pointer text-xl" onClick={() => setOnSA(true)}>
+              social media work
+            </Link>
 
             <Link href="/about" className="ml-4 cursor-pointer text-xl" onClick={() => setOnSA(true)}>
               about

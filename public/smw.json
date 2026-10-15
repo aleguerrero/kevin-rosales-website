@@ -1,0 +1,463 @@
+{
+  "projects": [
+    {
+      "title": "7up_banana",
+      "src": "/smw/Featured/7up_banana.webm",
+      "featured": true,
+      "x": 25.92,
+      "y": 75.9,
+      "z": 15,
+      "horizontal": true
+    },
+    {
+      "title": "7up_twister2",
+      "src": "/smw/Featured/7up_twister2.webm",
+      "featured": true,
+      "x": 22.68,
+      "y": 153.68,
+      "z": 22,
+      "horizontal": true
+    },
+    {
+      "title": "BONAQUA_HOUSEWARMING_001_1",
+      "src": "/smw/Featured/BONAQUA_HOUSEWARMING_001_1.webm",
+      "featured": true,
+      "x": 45.79,
+      "y": 81.96,
+      "z": 26,
+      "horizontal": false
+    },
+    {
+      "title": "BONAQUA_MANIFESTO_15s_BUS STOP_H264_SP",
+      "src": "/smw/Featured/BONAQUA_MANIFESTO_15s_BUS STOP_H264_SP.webm",
+      "featured": true,
+      "x": 4.95,
+      "y": 9.48,
+      "z": 3,
+      "horizontal": false
+    },
+    {
+      "title": "BONAQUA_MANIFESTO_15s_CHEF_H264_SP",
+      "src": "/smw/Featured/BONAQUA_MANIFESTO_15s_CHEF_H264_SP.webm",
+      "featured": true,
+      "x": 67.24,
+      "y": 222.12,
+      "z": 35,
+      "horizontal": false
+    },
+    {
+      "title": "BONAQUA_MANIFESTO_15s_ELEVATOR_H264_SP",
+      "src": "/smw/Featured/BONAQUA_MANIFESTO_15s_ELEVATOR_H264_SP.webm",
+      "featured": true,
+      "x": 67.39,
+      "y": 6.1,
+      "z": 46,
+      "horizontal": false
+    },
+    {
+      "title": "STREET-DANCING_CAU_09_9x16_10seg_ON04_2",
+      "src": "/smw/Featured/STREET-DANCING_CAU_09_9x16_10seg_ON04_2.webm",
+      "featured": true,
+      "x": 3.11,
+      "y": 140.9,
+      "z": 12,
+      "horizontal": false
+    },
+    {
+      "title": "STREET-DANCING_CAU_12_9x16_10seg_ON04_2",
+      "src": "/smw/Featured/STREET-DANCING_CAU_12_9x16_10seg_ON04_2.webm",
+      "featured": true,
+      "x": 0.77,
+      "y": 199.45,
+      "z": 30,
+      "horizontal": false
+    },
+    {
+      "title": "Snapinsta.app_video_An8s5vraIGNVTCgy_49jDQkkub4G06ET8HrrAqTOw2T5Z4oK_duDrpyNYK488zSW5iDR4nca7OsoAD7I3WNKHjg",
+      "src": "/smw/Featured/Snapinsta.app_video_An8s5vraIGNVTCgy_49jDQkkub4G06ET8HrrAqTOw2T5Z4oK_duDrpyNYK488zSW5iDR4nca7OsoAD7I3WNKHjg.webm",
+      "featured": true,
+      "x": 26.03,
+      "y": 229.01,
+      "z": 13,
+      "horizontal": false
+    },
+    {
+      "title": "Snapinsta.app_video_An9mhmOiWs1inf7RSeOxzmTbJ2wePEGcMYpdUMqPR1z_dG369PkXmcrhHglPj3P3CwGNc8VhrCsd2qJ1kaKOvgpr",
+      "src": "/smw/Featured/Snapinsta.app_video_An9mhmOiWs1inf7RSeOxzmTbJ2wePEGcMYpdUMqPR1z_dG369PkXmcrhHglPj3P3CwGNc8VhrCsd2qJ1kaKOvgpr.webm",
+      "featured": true,
+      "x": 68.76,
+      "y": 144.48,
+      "z": 47,
+      "horizontal": false
+    },
+    {
+      "title": "UBER-EATS_WK_DIGITAL_TROFEO_15s_9x16_H265_SP",
+      "src": "/smw/Featured/UBER-EATS_WK_DIGITAL_TROFEO_15s_9x16_H265_SP.webm",
+      "featured": true,
+      "x": 47.64,
+      "y": 11.35,
+      "z": 24,
+      "horizontal": false
+    },
+    {
+      "title": "UBER-EATS_WK_DIGITAL_TROFEO_TIKTO_15s_9x16_H265_SP",
+      "src": "/smw/Featured/UBER-EATS_WK_DIGITAL_TROFEO_TIKTO_15s_9x16_H265_SP.webm",
+      "featured": true,
+      "x": 4.35,
+      "y": 83.86,
+      "z": 5,
+      "horizontal": false
+    },
+    {
+      "title": "UE1",
+      "src": "/smw/Featured/UE1.webm",
+      "featured": true,
+      "x": 65.24,
+      "y": 72.87,
+      "z": 10,
+      "horizontal": false
+    },
+    {
+      "title": "UE2",
+      "src": "/smw/Featured/UE2.webm",
+      "featured": true,
+      "x": 46.94,
+      "y": 148.99,
+      "z": 1,
+      "horizontal": true
+    },
+    {
+      "title": "UE3",
+      "src": "/smw/Featured/UE3.webm",
+      "featured": true,
+      "x": 26.55,
+      "y": 2.51,
+      "z": 17,
+      "horizontal": false
+    },
+    {
+      "title": "UE4",
+      "src": "/smw/Featured/UE4.webm",
+      "featured": true,
+      "x": 43.93,
+      "y": 213.95,
+      "z": 44,
+      "horizontal": false
+    },
+    {
+      "title": "7up_Hielera",
+      "src": "/smw/rest/7up_Hielera.webm",
+      "featured": false,
+      "x": 23.76,
+      "y": 648.89,
+      "z": 41,
+      "horizontal": true
+    },
+    {
+      "title": "7up_alberca",
+      "src": "/smw/rest/7up_alberca.webm",
+      "featured": false,
+      "x": 27.14,
+      "y": 709.34,
+      "z": 28,
+      "horizontal": true
+    },
+    {
+      "title": "7up_hotdog",
+      "src": "/smw/rest/7up_hotdog.webm",
+      "featured": false,
+      "x": 3.59,
+      "y": 303.72,
+      "z": 50,
+      "horizontal": true
+    },
+    {
+      "title": "7up_porlaNariz",
+      "src": "/smw/rest/7up_porlaNariz.webm",
+      "featured": false,
+      "x": 25.26,
+      "y": 779.44,
+      "z": 4,
+      "horizontal": true
+    },
+    {
+      "title": "7up_rooftop",
+      "src": "/smw/rest/7up_rooftop.webm",
+      "featured": false,
+      "x": 69.01,
+      "y": 506.74,
+      "z": 33,
+      "horizontal": true
+    },
+    {
+      "title": "AguaRifada_01",
+      "src": "/smw/rest/AguaRifada_01.webm",
+      "featured": false,
+      "x": 5.71,
+      "y": 842.13,
+      "z": 43,
+      "horizontal": false
+    },
+    {
+      "title": "AguaRifada_02",
+      "src": "/smw/rest/AguaRifada_02.webm",
+      "featured": false,
+      "x": 1,
+      "y": 377.15,
+      "z": 38,
+      "horizontal": false
+    },
+    {
+      "title": "AguaRifada_03",
+      "src": "/smw/rest/AguaRifada_03.webm",
+      "featured": false,
+      "x": 44.9,
+      "y": 550.79,
+      "z": 27,
+      "horizontal": false
+    },
+    {
+      "title": "BONAQUA_MANIFESTO_15s_CASHIER_H264_SP",
+      "src": "/smw/rest/BONAQUA_MANIFESTO_15s_CASHIER_H264_SP.webm",
+      "featured": false,
+      "x": 24.41,
+      "y": 571.51,
+      "z": 18,
+      "horizontal": false
+    },
+    {
+      "title": "BONAQUA_MANIFESTO_15s_DRIVER_H264_SP",
+      "src": "/smw/rest/BONAQUA_MANIFESTO_15s_DRIVER_H264_SP.webm",
+      "featured": false,
+      "x": 45.21,
+      "y": 362.62,
+      "z": 6,
+      "horizontal": false
+    },
+    {
+      "title": "BONAQUA_MANIFESTO_15s_FRIENDS_H264_SP",
+      "src": "/smw/rest/BONAQUA_MANIFESTO_15s_FRIENDS_H264_SP.webm",
+      "featured": false,
+      "x": 47.7,
+      "y": 489.82,
+      "z": 19,
+      "horizontal": false
+    },
+    {
+      "title": "BONAQUA_MANIFESTO_15s_GAMER_H264_SP",
+      "src": "/smw/rest/BONAQUA_MANIFESTO_15s_GAMER_H264_SP.webm",
+      "featured": false,
+      "x": 45.54,
+      "y": 417.87,
+      "z": 40,
+      "horizontal": false
+    },
+    {
+      "title": "BONAQUA_MANIFESTO_15s_RESTAURANTE_H264_SP",
+      "src": "/smw/rest/BONAQUA_MANIFESTO_15s_RESTAURANTE_H264_SP.webm",
+      "featured": false,
+      "x": 5.54,
+      "y": 647.64,
+      "z": 14,
+      "horizontal": false
+    },
+    {
+      "title": "BONAQUA_MANIFESTO_15s_SECURITY_H264_SP",
+      "src": "/smw/rest/BONAQUA_MANIFESTO_15s_SECURITY_H264_SP.webm",
+      "featured": false,
+      "x": 69.21,
+      "y": 627.71,
+      "z": 8,
+      "horizontal": false
+    },
+    {
+      "title": "BONAQUA_MANIFESTO_15s_TRAFFIC_H264_SP",
+      "src": "/smw/rest/BONAQUA_MANIFESTO_15s_TRAFFIC_H264_SP.webm",
+      "featured": false,
+      "x": 4.68,
+      "y": 710.3,
+      "z": 45,
+      "horizontal": false
+    },
+    {
+      "title": "COCACOLATOKYO01",
+      "src": "/smw/rest/COCACOLATOKYO01.webm",
+      "featured": false,
+      "x": 48.01,
+      "y": 738.33,
+      "z": 7,
+      "horizontal": false
+    },
+    {
+      "title": "COCACOLATOKYO02",
+      "src": "/smw/rest/COCACOLATOKYO02.webm",
+      "featured": false,
+      "x": 43.67,
+      "y": 678.38,
+      "z": 34,
+      "horizontal": false
+    },
+    {
+      "title": "COCACOLATOKYO03",
+      "src": "/smw/rest/COCACOLATOKYO03.webm",
+      "featured": false,
+      "x": 67.8,
+      "y": 804.65,
+      "z": 29,
+      "horizontal": false
+    },
+    {
+      "title": "COCACOLATOKYO04",
+      "src": "/smw/rest/COCACOLATOKYO04.webm",
+      "featured": false,
+      "x": 44.47,
+      "y": 816.47,
+      "z": 36,
+      "horizontal": false
+    },
+    {
+      "title": "COCACOLATOKYO05",
+      "src": "/smw/rest/COCACOLATOKYO05.webm",
+      "featured": false,
+      "x": 23.39,
+      "y": 303.72,
+      "z": 42,
+      "horizontal": false
+    },
+    {
+      "title": "COCACOLATOKYO06",
+      "src": "/smw/rest/COCACOLATOKYO06.webm",
+      "featured": false,
+      "x": 3.98,
+      "y": 572.86,
+      "z": 32,
+      "horizontal": false
+    },
+    {
+      "title": "COCACOLATOKYO07",
+      "src": "/smw/rest/COCACOLATOKYO07.webm",
+      "featured": false,
+      "x": 68.34,
+      "y": 303.72,
+      "z": 39,
+      "horizontal": false
+    },
+    {
+      "title": "HOUSEWARMING_CAU_04_9X16_11seg_ON03_2_1",
+      "src": "/smw/rest/HOUSEWARMING_CAU_04_9X16_11seg_ON03_2_1.webm",
+      "featured": false,
+      "x": 22.26,
+      "y": 377.57,
+      "z": 37,
+      "horizontal": false
+    },
+    {
+      "title": "KLAR01",
+      "src": "/smw/rest/KLAR01.webm",
+      "featured": false,
+      "x": 45.38,
+      "y": 614.17,
+      "z": 23,
+      "horizontal": false
+    },
+    {
+      "title": "KLAR02",
+      "src": "/smw/rest/KLAR02.webm",
+      "featured": false,
+      "x": 68.5,
+      "y": 442.22,
+      "z": 25,
+      "horizontal": false
+    },
+    {
+      "title": "KLAR03",
+      "src": "/smw/rest/KLAR03.webm",
+      "featured": false,
+      "x": 66.83,
+      "y": 370.31,
+      "z": 2,
+      "horizontal": false
+    },
+    {
+      "title": "KLAR04",
+      "src": "/smw/rest/KLAR04.webm",
+      "featured": false,
+      "x": 68.65,
+      "y": 749.1,
+      "z": 51,
+      "horizontal": false
+    },
+    {
+      "title": "SM_DIGITAL CONTENT_1",
+      "src": "/smw/rest/SM_DIGITAL CONTENT_1.webm",
+      "featured": false,
+      "x": 68.94,
+      "y": 689.2,
+      "z": 9,
+      "horizontal": false
+    },
+    {
+      "title": "SM_DIGITAL CONTENT_2",
+      "src": "/smw/rest/SM_DIGITAL CONTENT_2.webm",
+      "featured": false,
+      "x": 48.56,
+      "y": 303.72,
+      "z": 20,
+      "horizontal": false
+    },
+    {
+      "title": "SM_DIGITAL CONTENT_3",
+      "src": "/smw/rest/SM_DIGITAL CONTENT_3.webm",
+      "featured": false,
+      "x": 25.69,
+      "y": 497.89,
+      "z": 11,
+      "horizontal": false
+    },
+    {
+      "title": "SM_DIGITAL CONTENT_4",
+      "src": "/smw/rest/SM_DIGITAL CONTENT_4.webm",
+      "featured": false,
+      "x": 4.1,
+      "y": 783.8,
+      "z": 49,
+      "horizontal": false
+    },
+    {
+      "title": "SM_DIGITAL CONTENT_5",
+      "src": "/smw/rest/SM_DIGITAL CONTENT_5.webm",
+      "featured": false,
+      "x": 26.08,
+      "y": 439.18,
+      "z": 31,
+      "horizontal": false
+    },
+    {
+      "title": "SM_DIGITAL CONTENT_6",
+      "src": "/smw/rest/SM_DIGITAL CONTENT_6.webm",
+      "featured": false,
+      "x": 66.64,
+      "y": 565.2,
+      "z": 21,
+      "horizontal": false
+    },
+    {
+      "title": "SM_DIGITAL CONTENT_7",
+      "src": "/smw/rest/SM_DIGITAL CONTENT_7.webm",
+      "featured": false,
+      "x": 3.69,
+      "y": 446.84,
+      "z": 16,
+      "horizontal": false
+    },
+    {
+      "title": "SM_DIGITAL CONTENT_8",
+      "src": "/smw/rest/SM_DIGITAL CONTENT_8.webm",
+      "featured": false,
+      "x": 0.74,
+      "y": 513.95,
+      "z": 48,
+      "horizontal": false
+    }
+  ]
+}
