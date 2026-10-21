@@ -1,0 +1,66 @@
+[
+    {
+        "year": "2026",
+        "event": "Cannes Lions",
+        "award": "Gold, 2 Silver and Bronze",
+        "client": "Tecate",
+        "title": "Welcome back, Paisano",
+        "role": "B-Unit Director"
+    },
+    {
+        "year": "2026",
+        "event": "Cannes Lions",
+        "award": "Bronze in Film",
+        "client": "Cerveza Indio",
+        "title": "The Mexican Dream",
+        "role": "Co-director / B-Unit"
+    },
+    {
+        "year": "2025",
+        "event": "Cannes Lions Shortlist",
+        "award": "Brand Experience & Activation",
+        "client": "Cerveza Indio",
+        "title": "Pay It Forward",
+        "role": ""
+    },
+    {
+        "year": "2025",
+        "event": "El Ojo de Iberoamérica",
+        "award": "Bronze in Creative Commerce",
+        "client": "Cerveza Indio",
+        "title": "Pay It Forward",
+        "role": ""
+    },
+    {
+        "year": "2025",
+        "event": "The One Show",
+        "award": "Merit in Creative Use of Data",
+        "client": "Cerveza Indio",
+        "title": "Pay It Forward",
+        "role": ""
+    },
+    {
+        "year": "2024",
+        "event": "Círculo de Oro",
+        "award": "6 Gold, 4 Silver and 1 Bronze",
+        "client": "Apple",
+        "title": "¡Suerte!",
+        "role": "Behind the Scenes Director"
+    },
+    {
+        "year": "2024",
+        "event": "Cannes Lions Shortlist",
+        "award": "Data Visualisation",
+        "client": "Embasa",
+        "title": "Line Guide",
+        "role": ""
+    },
+    {
+        "year": "2024",
+        "event": "El Ojo de Iberoamérica",
+        "award": "Bronze in Creative Commerce",
+        "client": "Embasa",
+        "title": "Line Guide",
+        "role": ""
+    }
+]
