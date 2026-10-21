@@ -15,11 +15,13 @@ type ProjectsProps = {
   size?: number;
 };
 
-const IMG_PX = 300;
+// width of each video as % of the container; y is also in % of container width
+// so the layout keeps its proportions on any screen size
+const ITEM_WIDTH_PCT = 26;
 
-const Gallery = ({ projects, size = IMG_PX }: ProjectsProps) => {
+const Gallery = ({ projects, size = ITEM_WIDTH_PCT }: ProjectsProps) => {
   const containerRef = useRef<HTMLDivElement>(null);
-  const [imgpx, setImgpx] = useState(500);
+  const [containerWidth, setContainerWidth] = useState(0);
   const [zIndexes, setZIndexes] = useState<number[]>(() =>
     projects.map((p) => p.z),
   );
@@ -32,8 +34,8 @@ const Gallery = ({ projects, size = IMG_PX }: ProjectsProps) => {
     const container = containerRef.current;
     if (!container) return;
 
-    function updateSize(containerWidth: number) {
-      setImgpx(Math.min(1000, containerWidth * 0.5));
+    function updateSize(w: number) {
+      setContainerWidth(w);
     }
 
     const { width } = container.getBoundingClientRect();
@@ -91,8 +93,8 @@ const Gallery = ({ projects, size = IMG_PX }: ProjectsProps) => {
     >
       {projects.map((item, i) => {
         const style: React.CSSProperties = {
-          width: size,
-          top: `${item.y}%`,
+          width: `${size}%`,
+          top: (item.y / 100) * containerWidth,
           left: `${item.x}%`,
           zIndex: zIndexes[i] ?? item.z,
           transform: `translate(${offset.x}px, ${offset.y}px)`,
@@ -115,12 +117,6 @@ const Gallery = ({ projects, size = IMG_PX }: ProjectsProps) => {
               disablePictureInPicture
               preload="metadata"
             />
-            <div
-              id={item.title}
-              className="absolute inset-0 flex flex-col items-center text-sm justify-center text-center p-2 opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"
-            >
-              {item.title}
-            </div>
           </div>
         );
       })}

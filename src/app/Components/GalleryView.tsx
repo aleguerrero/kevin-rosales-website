@@ -23,7 +23,7 @@ export default function GalleryView({ projects }: ProjectsProps) {
     <div className=" w-full h-dvh flex flex-row items-center justify-center fade-in-container">
       <div className="w-full h-full flex flex-row justify-center items-center">
         {width >= 768 ? (
-          <Gallery projects={projects} size={500} />
+          <Gallery projects={projects} />
         ) : (
           <GalleryMobile projects={projects} />
         )}
