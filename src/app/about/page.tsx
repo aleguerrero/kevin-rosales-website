@@ -11,8 +11,8 @@ export default function AboutPage() {
     <div className="p-8 flex flex-row max-md:flex-col w-full items-center justify-center pt-24 fade-in-container">
       <div className="md:w-3/4">
         <div className="max-md:w-full w-1/2 flex flex-col font-thin text-lg">
-          {about.about.map((a) => (
-            <div className="mb-8">{a}</div>
+          {about.about.map((a, i) => (
+            <div className="mb-8" key={i}>{a}</div>
           ))}
           <div className="font-bold">Brands</div>
           <div className="mb-8">{about.brands.join(", ")}</div>
