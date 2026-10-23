@@ -4,460 +4,511 @@
       "title": "7up_banana",
       "src": "/smw/Featured/7up_banana.webm",
       "featured": true,
-      "x": 0,
-      "y": 86.95,
+      "x": 74.61,
+      "y": 44.12,
       "z": 15,
-      "horizontal": true
+      "horizontal": true,
+      "w": 33.63
     },
     {
       "title": "7up_twister2",
       "src": "/smw/Featured/7up_twister2.webm",
       "featured": true,
-      "x": 49.91,
-      "y": 120.61,
+      "x": 23.07,
+      "y": -1.93,
       "z": 22,
-      "horizontal": true
+      "horizontal": true,
+      "w": 31.12
     },
     {
       "title": "BONAQUA_HOUSEWARMING_001_1",
       "src": "/smw/Featured/BONAQUA_HOUSEWARMING_001_1.webm",
       "featured": true,
-      "x": 49.88,
-      "y": 75.82,
+      "x": 46.76,
+      "y": 65.96,
       "z": 26,
-      "horizontal": false
+      "horizontal": false,
+      "w": 31.89
     },
     {
       "title": "BONAQUA_MANIFESTO_15s_BUS STOP_H264_SP",
       "src": "/smw/Featured/BONAQUA_MANIFESTO_15s_BUS STOP_H264_SP.webm",
       "featured": true,
-      "x": 0,
-      "y": 99.73,
+      "x": -1.57,
+      "y": 46.46,
       "z": 3,
-      "horizontal": false
+      "horizontal": false,
+      "w": 29.01
     },
     {
       "title": "BONAQUA_MANIFESTO_15s_CHEF_H264_SP",
       "src": "/smw/Featured/BONAQUA_MANIFESTO_15s_CHEF_H264_SP.webm",
       "featured": true,
-      "x": 74.29,
-      "y": 0,
+      "x": 49.79,
+      "y": -3.6,
       "z": 35,
-      "horizontal": false
+      "horizontal": false,
+      "w": 29.2
     },
     {
       "title": "BONAQUA_MANIFESTO_15s_ELEVATOR_H264_SP",
       "src": "/smw/Featured/BONAQUA_MANIFESTO_15s_ELEVATOR_H264_SP.webm",
       "featured": true,
-      "x": 0,
-      "y": 0,
+      "x": -4.01,
+      "y": 133.9,
       "z": 46,
-      "horizontal": false
+      "horizontal": false,
+      "w": 32.76
     },
     {
       "title": "STREET-DANCING_CAU_09_9x16_10seg_ON04_2",
       "src": "/smw/Featured/STREET-DANCING_CAU_09_9x16_10seg_ON04_2.webm",
       "featured": true,
-      "x": 0,
-      "y": 42.59,
+      "x": 74.89,
+      "y": -1.81,
       "z": 12,
-      "horizontal": false
+      "horizontal": false,
+      "w": 26.94
     },
     {
       "title": "STREET-DANCING_CAU_12_9x16_10seg_ON04_2",
       "src": "/smw/Featured/STREET-DANCING_CAU_12_9x16_10seg_ON04_2.webm",
       "featured": true,
-      "x": 24.68,
-      "y": 43.31,
+      "x": -0.48,
+      "y": 89.81,
       "z": 30,
-      "horizontal": false
+      "horizontal": false,
+      "w": 28.78
     },
     {
       "title": "Snapinsta.app_video_An8s5vraIGNVTCgy_49jDQkkub4G06ET8HrrAqTOw2T5Z4oK_duDrpyNYK488zSW5iDR4nca7OsoAD7I3WNKHjg",
       "src": "/smw/Featured/Snapinsta.app_video_An8s5vraIGNVTCgy_49jDQkkub4G06ET8HrrAqTOw2T5Z4oK_duDrpyNYK488zSW5iDR4nca7OsoAD7I3WNKHjg.webm",
       "featured": true,
-      "x": 74.42,
-      "y": 100.18,
+      "x": 18.16,
+      "y": 134.16,
       "z": 13,
-      "horizontal": false
+      "horizontal": false,
+      "w": 31.24
     },
     {
       "title": "Snapinsta.app_video_An9mhmOiWs1inf7RSeOxzmTbJ2wePEGcMYpdUMqPR1z_dG369PkXmcrhHglPj3P3CwGNc8VhrCsd2qJ1kaKOvgpr",
       "src": "/smw/Featured/Snapinsta.app_video_An9mhmOiWs1inf7RSeOxzmTbJ2wePEGcMYpdUMqPR1z_dG369PkXmcrhHglPj3P3CwGNc8VhrCsd2qJ1kaKOvgpr.webm",
       "featured": true,
-      "x": 74.11,
-      "y": 44.27,
+      "x": 75.56,
+      "y": 60.63,
       "z": 47,
-      "horizontal": false
+      "horizontal": false,
+      "w": 27.09
     },
     {
       "title": "UBER-EATS_WK_DIGITAL_TROFEO_15s_9x16_H265_SP",
       "src": "/smw/Featured/UBER-EATS_WK_DIGITAL_TROFEO_15s_9x16_H265_SP.webm",
       "featured": true,
-      "x": 49.75,
-      "y": 31.56,
+      "x": -2.94,
+      "y": 184.49,
       "z": 24,
-      "horizontal": false
+      "horizontal": false,
+      "w": 30.3
     },
     {
       "title": "UBER-EATS_WK_DIGITAL_TROFEO_TIKTO_15s_9x16_H265_SP",
       "src": "/smw/Featured/UBER-EATS_WK_DIGITAL_TROFEO_TIKTO_15s_9x16_H265_SP.webm",
       "featured": true,
-      "x": 24.76,
-      "y": 88.42,
+      "x": -3.17,
+      "y": 260.28,
       "z": 5,
-      "horizontal": false
+      "horizontal": false,
+      "w": 28.89
     },
     {
       "title": "UE1",
       "src": "/smw/Featured/UE1.webm",
       "featured": true,
-      "x": 24.97,
-      "y": 0,
+      "x": 49.34,
+      "y": 239.44,
       "z": 10,
-      "horizontal": false
+      "horizontal": false,
+      "w": 29.56
     },
     {
       "title": "UE2",
       "src": "/smw/Featured/UE2.webm",
       "featured": true,
-      "x": 74.41,
-      "y": 86.91,
+      "x": 48.28,
+      "y": 47.31,
       "z": 1,
-      "horizontal": true
+      "horizontal": true,
+      "w": 34.94
     },
     {
       "title": "UE3",
       "src": "/smw/Featured/UE3.webm",
       "featured": true,
-      "x": 49.34,
-      "y": 0,
+      "x": 47.2,
+      "y": 121.6,
       "z": 17,
-      "horizontal": false
+      "horizontal": false,
+      "w": 30.26
     },
     {
       "title": "UE4",
       "src": "/smw/Featured/UE4.webm",
       "featured": true,
-      "x": 25.23,
-      "y": 133.71,
+      "x": -1.81,
+      "y": -0.85,
       "z": 44,
-      "horizontal": false
+      "horizontal": false,
+      "w": 27.74
     },
     {
       "title": "7up_Hielera",
       "src": "/smw/rest/7up_Hielera.webm",
       "featured": false,
-      "x": 24.73,
-      "y": 399.19,
+      "x": -2.68,
+      "y": 383.61,
       "z": 41,
-      "horizontal": true
+      "horizontal": true,
+      "w": 32.55
     },
     {
       "title": "7up_alberca",
       "src": "/smw/rest/7up_alberca.webm",
       "featured": false,
-      "x": 0,
-      "y": 143.87,
+      "x": 70.07,
+      "y": 214.92,
       "z": 28,
-      "horizontal": true
+      "horizontal": true,
+      "w": 32
     },
     {
       "title": "7up_hotdog",
       "src": "/smw/rest/7up_hotdog.webm",
       "featured": false,
-      "x": 74.27,
-      "y": 354.21,
+      "x": 43.71,
+      "y": 416.1,
       "z": 50,
-      "horizontal": true
+      "horizontal": true,
+      "w": 32.72
     },
     {
       "title": "7up_porlaNariz",
       "src": "/smw/rest/7up_porlaNariz.webm",
       "featured": false,
-      "x": 25.03,
-      "y": 342.01,
+      "x": 47.32,
+      "y": 346.44,
       "z": 4,
-      "horizontal": true
+      "horizontal": true,
+      "w": 33
     },
     {
       "title": "7up_rooftop",
       "src": "/smw/rest/7up_rooftop.webm",
       "featured": false,
-      "x": 49.89,
-      "y": 157.89,
+      "x": 21.67,
+      "y": 123.69,
       "z": 33,
-      "horizontal": true
+      "horizontal": true,
+      "w": 30.76
     },
     {
       "title": "AguaRifada_01",
       "src": "/smw/rest/AguaRifada_01.webm",
       "featured": false,
-      "x": 24.78,
-      "y": 311.19,
+      "x": 22.12,
+      "y": 324.18,
       "z": 43,
-      "horizontal": false
+      "horizontal": false,
+      "w": 32.05
     },
     {
       "title": "AguaRifada_02",
       "src": "/smw/rest/AguaRifada_02.webm",
       "featured": false,
-      "x": 0,
-      "y": 245.88,
+      "x": 19.8,
+      "y": 90.64,
       "z": 38,
-      "horizontal": false
+      "horizontal": false,
+      "w": 31.1
     },
     {
       "title": "AguaRifada_03",
       "src": "/smw/rest/AguaRifada_03.webm",
       "featured": false,
-      "x": 49.46,
-      "y": 269.16,
+      "x": 25.23,
+      "y": 211.28,
       "z": 27,
-      "horizontal": false
+      "horizontal": false,
+      "w": 29.67
     },
     {
       "title": "BONAQUA_MANIFESTO_15s_CASHIER_H264_SP",
       "src": "/smw/rest/BONAQUA_MANIFESTO_15s_CASHIER_H264_SP.webm",
       "featured": false,
-      "x": 0,
-      "y": 155.36,
+      "x": -1.95,
+      "y": 417.22,
       "z": 18,
-      "horizontal": false
+      "horizontal": false,
+      "w": 28.94
     },
     {
       "title": "BONAQUA_MANIFESTO_15s_DRIVER_H264_SP",
       "src": "/smw/rest/BONAQUA_MANIFESTO_15s_DRIVER_H264_SP.webm",
       "featured": false,
-      "x": 74.54,
-      "y": 192.96,
+      "x": 72.6,
+      "y": 231.19,
       "z": 6,
-      "horizontal": false
+      "horizontal": false,
+      "w": 29.76
     },
     {
       "title": "BONAQUA_MANIFESTO_15s_FRIENDS_H264_SP",
       "src": "/smw/rest/BONAQUA_MANIFESTO_15s_FRIENDS_H264_SP.webm",
       "featured": false,
-      "x": 0,
-      "y": 368.24,
+      "x": 49.33,
+      "y": 364,
       "z": 19,
-      "horizontal": false
+      "horizontal": false,
+      "w": 29.87
     },
     {
       "title": "BONAQUA_MANIFESTO_15s_GAMER_H264_SP",
       "src": "/smw/rest/BONAQUA_MANIFESTO_15s_GAMER_H264_SP.webm",
       "featured": false,
-      "x": 24.85,
-      "y": 355.3,
+      "x": 69.45,
+      "y": 413.06,
       "z": 40,
-      "horizontal": false
+      "horizontal": false,
+      "w": 31.28
     },
     {
       "title": "BONAQUA_MANIFESTO_15s_RESTAURANTE_H264_SP",
       "src": "/smw/rest/BONAQUA_MANIFESTO_15s_RESTAURANTE_H264_SP.webm",
       "featured": false,
-      "x": 24.79,
-      "y": 177.82,
+      "x": 49.24,
+      "y": 290.99,
       "z": 14,
-      "horizontal": false
+      "horizontal": false,
+      "w": 31.75
     },
     {
       "title": "BONAQUA_MANIFESTO_15s_SECURITY_H264_SP",
       "src": "/smw/rest/BONAQUA_MANIFESTO_15s_SECURITY_H264_SP.webm",
       "featured": false,
-      "x": 24.84,
-      "y": 243.89,
+      "x": -5.32,
+      "y": 333.67,
       "z": 8,
-      "horizontal": false
+      "horizontal": false,
+      "w": 31.75
     },
     {
       "title": "BONAQUA_MANIFESTO_15s_TRAFFIC_H264_SP",
       "src": "/smw/rest/BONAQUA_MANIFESTO_15s_TRAFFIC_H264_SP.webm",
       "featured": false,
-      "x": 49.35,
-      "y": 367.72,
+      "x": 48.34,
+      "y": 158.43,
       "z": 45,
-      "horizontal": false
+      "horizontal": false,
+      "w": 29.67
     },
     {
       "title": "COCACOLATOKYO01",
       "src": "/smw/rest/COCACOLATOKYO01.webm",
       "featured": false,
-      "x": 74.41,
-      "y": 238.01,
+      "x": 76.61,
+      "y": 386.2,
       "z": 7,
-      "horizontal": false
+      "horizontal": false,
+      "w": 28.91
     },
     {
       "title": "COCACOLATOKYO02",
       "src": "/smw/rest/COCACOLATOKYO02.webm",
       "featured": false,
-      "x": 74.06,
-      "y": 307.2,
+      "x": 19.59,
+      "y": 36.65,
       "z": 34,
-      "horizontal": false
+      "horizontal": false,
+      "w": 31.85
     },
     {
       "title": "COCACOLATOKYO03",
       "src": "/smw/rest/COCACOLATOKYO03.webm",
       "featured": false,
-      "x": 49.78,
-      "y": 246.33,
+      "x": -1.5,
+      "y": 233.44,
       "z": 29,
-      "horizontal": false
+      "horizontal": false,
+      "w": 30.01
     },
     {
       "title": "COCACOLATOKYO04",
       "src": "/smw/rest/COCACOLATOKYO04.webm",
       "featured": false,
-      "x": 0,
-      "y": 223.03,
+      "x": 51.32,
+      "y": 210.19,
       "z": 36,
-      "horizontal": false
+      "horizontal": false,
+      "w": 30.26
     },
     {
       "title": "COCACOLATOKYO05",
       "src": "/smw/rest/COCACOLATOKYO05.webm",
       "featured": false,
-      "x": 0,
-      "y": 320.2,
+      "x": 74.22,
+      "y": 107.51,
       "z": 42,
-      "horizontal": false
+      "horizontal": false,
+      "w": 32.05
     },
     {
       "title": "COCACOLATOKYO06",
       "src": "/smw/rest/COCACOLATOKYO06.webm",
       "featured": false,
-      "x": 74.36,
-      "y": 144.41,
+      "x": -1.9,
+      "y": 396.41,
       "z": 32,
-      "horizontal": false
+      "horizontal": false,
+      "w": 28.05
     },
     {
       "title": "COCACOLATOKYO07",
       "src": "/smw/rest/COCACOLATOKYO07.webm",
       "featured": false,
-      "x": 25.26,
-      "y": 287.93,
+      "x": 20.6,
+      "y": 297.2,
       "z": 39,
-      "horizontal": false
+      "horizontal": false,
+      "w": 31.47
     },
     {
       "title": "HOUSEWARMING_CAU_04_9X16_11seg_ON03_2_1",
       "src": "/smw/rest/HOUSEWARMING_CAU_04_9X16_11seg_ON03_2_1.webm",
       "featured": false,
-      "x": 49.78,
-      "y": 201.14,
+      "x": 22.66,
+      "y": 413.17,
       "z": 37,
-      "horizontal": false
+      "horizontal": false,
+      "w": 31.22
     },
     {
       "title": "KLAR01",
       "src": "/smw/rest/KLAR01.webm",
       "featured": false,
-      "x": 0,
-      "y": 276.33,
+      "x": 74.44,
+      "y": 310.21,
       "z": 23,
-      "horizontal": false
+      "horizontal": false,
+      "w": 27.53
     },
     {
       "title": "KLAR02",
       "src": "/smw/rest/KLAR02.webm",
       "featured": false,
-      "x": 74.08,
-      "y": 367.63,
+      "x": 19.11,
+      "y": 242.95,
       "z": 25,
-      "horizontal": false
+      "horizontal": false,
+      "w": 31.76
     },
     {
       "title": "KLAR03",
       "src": "/smw/rest/KLAR03.webm",
       "featured": false,
-      "x": 74.5,
-      "y": 262.44,
+      "x": 25.35,
+      "y": 361.56,
       "z": 2,
-      "horizontal": false
+      "horizontal": false,
+      "w": 30.17
     },
     {
       "title": "KLAR04",
       "src": "/smw/rest/KLAR04.webm",
       "featured": false,
-      "x": 49.71,
-      "y": 322.39,
+      "x": 70.61,
+      "y": 162.81,
       "z": 51,
-      "horizontal": false
+      "horizontal": false,
+      "w": 30.55
     },
     {
       "title": "SM_DIGITAL CONTENT_1",
       "src": "/smw/rest/SM_DIGITAL CONTENT_1.webm",
       "featured": false,
-      "x": 74.51,
-      "y": 331.14,
+      "x": 47.7,
+      "y": 433.5,
       "z": 9,
-      "horizontal": false
+      "horizontal": false,
+      "w": 35.17
     },
     {
       "title": "SM_DIGITAL CONTENT_2",
       "src": "/smw/rest/SM_DIGITAL CONTENT_2.webm",
       "featured": false,
-      "x": 0,
-      "y": 343.11,
+      "x": 71.33,
+      "y": 282.4,
       "z": 20,
-      "horizontal": false
+      "horizontal": false,
+      "w": 30.11
     },
     {
       "title": "SM_DIGITAL CONTENT_3",
       "src": "/smw/rest/SM_DIGITAL CONTENT_3.webm",
       "featured": false,
-      "x": 0,
-      "y": 199.5,
+      "x": 20.79,
+      "y": 184.79,
       "z": 11,
-      "horizontal": false
+      "horizontal": false,
+      "w": 32.74
     },
     {
       "title": "SM_DIGITAL CONTENT_4",
       "src": "/smw/rest/SM_DIGITAL CONTENT_4.webm",
       "featured": false,
-      "x": 49.69,
-      "y": 169.95,
+      "x": 26.23,
+      "y": 64.06,
       "z": 49,
-      "horizontal": false
+      "horizontal": false,
+      "w": 26.38
     },
     {
       "title": "SM_DIGITAL CONTENT_5",
       "src": "/smw/rest/SM_DIGITAL CONTENT_5.webm",
       "featured": false,
-      "x": 25.19,
-      "y": 221.51,
+      "x": 71.34,
+      "y": 356.61,
       "z": 31,
-      "horizontal": false
+      "horizontal": false,
+      "w": 31.28
     },
     {
       "title": "SM_DIGITAL CONTENT_6",
       "src": "/smw/rest/SM_DIGITAL CONTENT_6.webm",
       "featured": false,
-      "x": 74.59,
-      "y": 168.11,
+      "x": 24,
+      "y": 10.58,
       "z": 21,
-      "horizontal": false
+      "horizontal": false,
+      "w": 32.1
     },
     {
       "title": "SM_DIGITAL CONTENT_7",
       "src": "/smw/rest/SM_DIGITAL CONTENT_7.webm",
       "featured": false,
-      "x": 49.45,
-      "y": 133.37,
+      "x": -2.91,
+      "y": 308.81,
       "z": 16,
-      "horizontal": false
+      "horizontal": false,
+      "w": 28.48
     },
     {
       "title": "SM_DIGITAL CONTENT_8",
       "src": "/smw/rest/SM_DIGITAL CONTENT_8.webm",
       "featured": false,
-      "x": 49.51,
-      "y": 298.25,
+      "x": 74.98,
+      "y": 137.52,
       "z": 48,
-      "horizontal": false
+      "horizontal": false,
+      "w": 27.65
     }
   ]
 }

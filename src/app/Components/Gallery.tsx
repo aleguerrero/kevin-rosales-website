@@ -8,6 +8,7 @@ type Project = {
   x: number;
   y: number;
   z: number;
+  w?: number;
 };
 
 type ProjectsProps = {
@@ -93,7 +94,7 @@ const Gallery = ({ projects, size = ITEM_WIDTH_PCT }: ProjectsProps) => {
     >
       {projects.map((item, i) => {
         const style: React.CSSProperties = {
-          width: `${size}%`,
+          width: `${item.w ?? size}%`,
           top: (item.y / 100) * containerWidth,
           left: `${item.x}%`,
           zIndex: zIndexes[i] ?? item.z,
