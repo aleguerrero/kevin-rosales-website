@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 
 type Project = {
   title: string;
@@ -14,6 +14,10 @@ type Project = {
 type ProjectsProps = {
   projects: Project[];
 };
+
+// First-frame image generated with ffmpeg into /public/smw/posters.
+const posterFor = (src: string) =>
+  src.replace(/^\/smw\/(Featured|rest)\//, "/smw/posters/").replace(/\.webm$/, ".webp");
 
 // Project/brand a video belongs to, derived from its title
 // (e.g. "BONAQUA_MANIFESTO_..." -> "BONAQUA", "COCACOLATOKYO03" -> "COCACOLATOKYO").
@@ -65,37 +69,51 @@ export default function GalleryMobile({ projects }: ProjectsProps) {
   );
 
   // Play only the video that is snapped into view; pause and reset the rest.
+  const [activeIndex, setActiveIndex] = useState(0);
+
+  // Play only the video closest to the center of the screen; pause the rest.
   useEffect(() => {
     const root = containerRef.current;
     if (!root) return;
 
     let current = -1;
-    let timer: ReturnType<typeof setTimeout> | undefined;
+    let frame = 0;
 
     const sync = () => {
-      const index = Math.round(root.scrollTop / root.clientHeight);
+      frame = 0;
+      const center = root.clientHeight / 2;
+      let index = 0;
+      let best = Infinity;
+      videoRefs.current.forEach((video, i) => {
+        if (!video) return;
+        const r = video.getBoundingClientRect();
+        const d = Math.abs(r.top + r.height / 2 - center);
+        if (d < best) {
+          best = d;
+          index = i;
+        }
+      });
       if (index === current) return;
       current = index;
+      setActiveIndex(index);
       videoRefs.current.forEach((video, i) => {
         if (!video) return;
         if (i === index) {
           video.play().catch(() => {});
-        } else if (!video.paused || video.currentTime > 0) {
+        } else if (!video.paused) {
           video.pause();
-          video.currentTime = 0;
         }
       });
     };
 
     const onScroll = () => {
-      clearTimeout(timer);
-      timer = setTimeout(sync, 80);
+      if (!frame) frame = requestAnimationFrame(sync);
     };
 
     sync();
     root.addEventListener("scroll", onScroll, { passive: true });
     return () => {
-      clearTimeout(timer);
+      cancelAnimationFrame(frame);
       root.removeEventListener("scroll", onScroll);
     };
   }, [verticals.length]);
@@ -103,26 +121,25 @@ export default function GalleryMobile({ projects }: ProjectsProps) {
   return (
     <div
       ref={containerRef}
-      className="h-dvh w-full overflow-y-scroll overflow-x-hidden snap-y snap-mandatory overscroll-contain no-scrollbar"
+      className="h-dvh w-full overflow-y-auto overflow-x-hidden no-scrollbar pt-24 pb-8 flex flex-col gap-4"
     >
       {verticals.map((p, i) => (
-        <section
+        <video
           key={p.src}
-          className="relative h-dvh w-full snap-start snap-always flex items-center justify-center"
-        >
-          <video
-            ref={(el) => {
-              videoRefs.current[i] = el;
-            }}
-            src={p.src}
-            className="h-full w-full object-cover"
-            muted
-            loop
-            playsInline
-            disablePictureInPicture
-            preload="metadata"
-          />
-        </section>
+          ref={(el) => {
+            videoRefs.current[i] = el;
+          }}
+          src={p.src}
+          poster={posterFor(p.src)}
+          className="w-full aspect-[9/16] shrink-0 object-cover bg-neutral-900"
+          muted
+          loop
+          playsInline
+          disablePictureInPicture
+          // Buffer the current video and the next couple; skip the rest so
+          // they don't compete for bandwidth (the poster shows meanwhile).
+          preload={i >= activeIndex - 1 && i <= activeIndex + 2 ? "auto" : "none"}
+        />
       ))}
     </div>
   );
